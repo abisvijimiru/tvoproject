@@ -1,0 +1,8 @@
+Operation System  	- 	Windows 10
+IDE                           	-  	Eclipse Mars IDE, 
+Libs                          	-  	Selenium JavaSE-1.8
+Language               	-   	Java
+Testing Env            	-   	Junit4
+For Logging            	- 	 Log4J1.2.17 
+For excel r/w	- 	Jexcelapi2_6_12 
+Browser 		- 	Chrome

@@ -1,0 +1,2117 @@
+2018-02-04 16:26:50,812 [main] INFO WebUtils - Browser Opened
+2018-02-04 16:26:50,847 [main] INFO WebUtils - Implict wait for 20 seconds to open the browser loadded with all the components
+2018-02-04 16:27:01,693 [main] INFO WebUtils - Constants.URL Opened
+2018-02-04 16:27:09,235 [main] INFO WebUtils - Browser Opened
+2018-02-04 16:27:09,243 [main] INFO WebUtils - Implict wait for 20 seconds to open the browser loadded with all the components
+2018-02-04 16:27:21,764 [main] INFO WebUtils - Constants.URL Opened
+2018-02-04 16:27:26,700 [main] INFO WebUtils - Browser Opened
+2018-02-04 16:27:26,706 [main] INFO WebUtils - Implict wait for 20 seconds to open the browser loadded with all the components
+2018-02-04 16:27:36,495 [main] INFO WebUtils - Constants.URL Opened
+2018-02-04 16:27:41,593 [main] INFO WebUtils - Browser Opened
+2018-02-04 16:27:41,599 [main] INFO WebUtils - Implict wait for 20 seconds to open the browser loadded with all the components
+2018-02-04 16:27:51,535 [main] INFO WebUtils - Constants.URL Opened
+2018-02-04 16:27:56,516 [main] INFO WebUtils - Browser Opened
+2018-02-04 16:27:56,522 [main] INFO WebUtils - Implict wait for 20 seconds to open the browser loadded with all the components
+2018-02-04 16:28:04,887 [main] INFO WebUtils - Constants.URL Opened
+2018-02-04 16:28:10,116 [main] INFO WebUtils - Browser Opened
+2018-02-04 16:28:10,126 [main] INFO WebUtils - Implict wait for 20 seconds to open the browser loadded with all the components
+2018-02-04 16:28:23,859 [main] INFO WebUtils - Constants.URL Opened
+2018-02-04 16:34:23,977 [main] INFO WebUtils - Browser Opened
+2018-02-04 16:34:23,993 [main] INFO WebUtils - Implict wait for 20 seconds to open the browser loadded with all the components
+2018-02-04 16:34:36,033 [main] INFO WebUtils - Constants.URL Opened
+2018-02-04 16:34:37,992 [main] INFO WebUtils - Browser Closed
+2018-02-04 16:34:42,113 [main] INFO WebUtils - Browser Opened
+2018-02-04 16:34:42,123 [main] INFO WebUtils - Implict wait for 20 seconds to open the browser loadded with all the components
+2018-02-04 16:34:51,624 [main] INFO WebUtils - Constants.URL Opened
+2018-02-04 16:34:53,381 [main] INFO WebUtils - Browser Closed
+2018-02-04 16:34:58,491 [main] INFO WebUtils - Browser Opened
+2018-02-04 16:34:58,498 [main] INFO WebUtils - Implict wait for 20 seconds to open the browser loadded with all the components
+2018-02-04 16:35:11,797 [main] INFO WebUtils - Constants.URL Opened
+2018-02-04 16:35:13,659 [main] INFO WebUtils - Browser Closed
+2018-02-04 16:35:19,034 [main] INFO WebUtils - Browser Opened
+2018-02-04 16:35:19,048 [main] INFO WebUtils - Implict wait for 20 seconds to open the browser loadded with all the components
+2018-02-04 16:35:31,311 [main] INFO WebUtils - Constants.URL Opened
+2018-02-04 16:35:33,301 [main] INFO WebUtils - Browser Closed
+2018-02-04 16:35:37,382 [main] INFO WebUtils - Browser Opened
+2018-02-04 16:35:37,394 [main] INFO WebUtils - Implict wait for 20 seconds to open the browser loadded with all the components
+2018-02-04 16:35:47,598 [main] INFO WebUtils - Constants.URL Opened
+2018-02-04 16:35:49,500 [main] INFO WebUtils - Browser Closed
+2018-02-04 16:35:52,572 [main] INFO WebUtils - Browser Opened
+2018-02-04 16:35:52,588 [main] INFO WebUtils - Implict wait for 20 seconds to open the browser loadded with all the components
+2018-02-04 16:35:59,065 [main] INFO WebUtils - Constants.URL Opened
+2018-02-04 16:36:00,308 [main] INFO WebUtils - TVO mPower logo is loaded in Home Page
+2018-02-04 16:36:02,338 [main] INFO WebUtils - Browser Closed
+2018-02-04 16:36:02,339 [main] INFO WebUtils - Browser Closed
+2018-02-04 18:20:19,240 [main] INFO ExcelUtils - Test Input Excel is Opened
+2018-02-04 18:20:37,881 [main] INFO WebUtils - Browser Opened
+2018-02-04 18:20:37,894 [main] INFO WebUtils - Implict wait for 20 seconds to open the browser loadded with all the components
+2018-02-04 18:20:48,666 [main] INFO WebUtils - Constants.URL Opened
+2018-02-04 18:20:48,726 [main] INFO FunctionalityTestCases - Test2 - Home Page Login Validation with uname and password is empty or null
+2018-02-04 18:20:50,526 [main] INFO ExcelUtils - TVOWebTC2
+2018-02-04 18:20:50,529 [main] INFO ExcelUtils - testHPLoginValidation1
+2018-02-04 18:20:50,530 [main] INFO ExcelUtils - Yes
+2018-02-04 18:20:50,531 [main] INFO ExcelUtils - To test the login creditionals with uname is empty or null
+2018-02-04 18:20:50,533 [main] INFO ExcelUtils - Chrome
+2018-02-04 18:20:50,534 [main] INFO ExcelUtils - 
+2018-02-04 18:20:50,535 [main] INFO ExcelUtils - 
+2018-02-04 18:20:50,535 [main] INFO ExcelUtils - Please provide an email address
+2018-02-04 18:20:50,536 [main] INFO WebUtils - Check and Verify Login Credintials
+2018-02-04 18:20:50,537 [main] INFO WebUtils - Set uname
+2018-02-04 18:20:51,080 [main] INFO WebUtils - Given Id of the element is loaded
+2018-02-04 18:20:51,082 [main] INFO WebUtils - Clear the webelement
+2018-02-04 18:20:51,735 [main] INFO WebUtils - Set the webelement with the given input value
+2018-02-04 18:20:52,196 [main] INFO WebUtils - Set password
+2018-02-04 18:20:52,237 [main] INFO WebUtils - Given Id of the element is loaded
+2018-02-04 18:20:52,238 [main] INFO WebUtils - Clear the webelement
+2018-02-04 18:20:52,411 [main] INFO WebUtils - Set the webelement with the given input value
+2018-02-04 18:20:52,648 [main] INFO WebUtils - Click submit button
+2018-02-04 18:20:52,685 [main] INFO WebUtils - Given Id of the element is loaded
+2018-02-04 18:20:52,686 [main] INFO WebUtils - Click the submitbutton
+2018-02-04 18:20:53,363 [main] INFO WebUtils - Popup Alert is coorect
+2018-02-04 18:20:55,082 [main] INFO WebUtils - Browser Closed
+2018-02-04 18:21:02,915 [main] INFO WebUtils - Browser Opened
+2018-02-04 18:21:02,927 [main] INFO WebUtils - Implict wait for 20 seconds to open the browser loadded with all the components
+2018-02-04 18:21:12,118 [main] INFO WebUtils - Constants.URL Opened
+2018-02-04 18:21:12,120 [main] INFO FunctionalityTestCases - Test3 - Home Page Login Validation with invalid uname and valid password
+2018-02-04 18:21:12,120 [main] INFO ExcelUtils - TVOWebTC3
+2018-02-04 18:21:12,121 [main] INFO ExcelUtils - testHPLoginValidation2
+2018-02-04 18:21:12,122 [main] INFO ExcelUtils - Yes
+2018-02-04 18:21:12,122 [main] INFO ExcelUtils - To test the login creditionals with invalid uname and valid password
+2018-02-04 18:21:12,123 [main] INFO ExcelUtils - Chrome
+2018-02-04 18:21:12,124 [main] INFO ExcelUtils - aaa
+2018-02-04 18:21:12,124 [main] INFO ExcelUtils - Skylark@17823
+2018-02-04 18:21:12,125 [main] INFO ExcelUtils - This is not a valid email address
+2018-02-04 18:21:12,126 [main] INFO WebUtils - Check and Verify Login Credintials
+2018-02-04 18:21:12,126 [main] INFO WebUtils - Set uname
+2018-02-04 18:21:12,197 [main] INFO WebUtils - Given Id of the element is loaded
+2018-02-04 18:21:12,198 [main] INFO WebUtils - Clear the webelement
+2018-02-04 18:21:12,300 [main] INFO WebUtils - Set the webelement with the given input value
+2018-02-04 18:21:13,053 [main] INFO WebUtils - Set password
+2018-02-04 18:21:13,093 [main] INFO WebUtils - Given Id of the element is loaded
+2018-02-04 18:21:13,094 [main] INFO WebUtils - Clear the webelement
+2018-02-04 18:21:13,200 [main] INFO WebUtils - Set the webelement with the given input value
+2018-02-04 18:21:13,497 [main] INFO WebUtils - Click submit button
+2018-02-04 18:21:13,532 [main] INFO WebUtils - Given Id of the element is loaded
+2018-02-04 18:21:13,532 [main] INFO WebUtils - Click the submitbutton
+2018-02-04 18:21:13,847 [main] INFO WebUtils - Popup Alert is coorect
+2018-02-04 18:21:14,558 [main] INFO WebUtils - Browser Closed
+2018-02-04 18:21:19,067 [main] INFO WebUtils - Browser Opened
+2018-02-04 18:21:19,092 [main] INFO WebUtils - Implict wait for 20 seconds to open the browser loadded with all the components
+2018-02-04 18:21:31,666 [main] INFO WebUtils - Constants.URL Opened
+2018-02-04 18:21:31,667 [main] INFO FunctionalityTestCases - Test4 - Home Page Login Validation with invalid uname and valid password
+2018-02-04 18:21:31,669 [main] INFO ExcelUtils - TVOWebTC4
+2018-02-04 18:21:31,669 [main] INFO ExcelUtils - testHPLoginValidation3
+2018-02-04 18:21:31,670 [main] INFO ExcelUtils - Yes
+2018-02-04 18:21:31,671 [main] INFO ExcelUtils - To test the login creditionals with valid uname and invalid password
+2018-02-04 18:21:31,671 [main] INFO ExcelUtils - Chrome
+2018-02-04 18:21:31,672 [main] INFO ExcelUtils - abirama.s@aricent.com
+2018-02-04 18:21:31,673 [main] INFO ExcelUtils - aaa
+2018-02-04 18:21:31,673 [main] INFO ExcelUtils - A valid password is required
+2018-02-04 18:21:31,674 [main] INFO WebUtils - Check and Verify Login Credintials
+2018-02-04 18:21:31,675 [main] INFO WebUtils - Set uname
+2018-02-04 18:21:31,716 [main] INFO WebUtils - Given Id of the element is loaded
+2018-02-04 18:21:31,717 [main] INFO WebUtils - Clear the webelement
+2018-02-04 18:21:31,810 [main] INFO WebUtils - Set the webelement with the given input value
+2018-02-04 18:21:32,407 [main] INFO WebUtils - Set password
+2018-02-04 18:21:32,491 [main] INFO WebUtils - Given Id of the element is loaded
+2018-02-04 18:21:32,491 [main] INFO WebUtils - Clear the webelement
+2018-02-04 18:21:32,589 [main] INFO WebUtils - Set the webelement with the given input value
+2018-02-04 18:21:32,737 [main] INFO WebUtils - Click submit button
+2018-02-04 18:21:32,779 [main] INFO WebUtils - Given Id of the element is loaded
+2018-02-04 18:21:32,780 [main] INFO WebUtils - Click the submitbutton
+2018-02-04 18:21:33,103 [main] INFO WebUtils - Popup Alert is coorect
+2018-02-04 18:21:33,104 [main] INFO FunctionalityTestCases - testHPLoginValidation3 Execution Completed
+2018-02-04 18:21:33,820 [main] INFO WebUtils - Browser Closed
+2018-02-04 18:21:36,841 [main] INFO WebUtils - Browser Opened
+2018-02-04 18:21:36,848 [main] INFO WebUtils - Implict wait for 20 seconds to open the browser loadded with all the components
+2018-02-04 18:21:45,780 [main] INFO WebUtils - Constants.URL Opened
+2018-02-04 18:21:45,781 [main] INFO FunctionalityTestCases - Test5 - Home Page Login Validation with valid uname and password for the non registered user
+2018-02-04 18:21:45,782 [main] INFO ExcelUtils - TVOWebTC5
+2018-02-04 18:21:45,782 [main] INFO ExcelUtils - testHPLoginValidation4
+2018-02-04 18:21:45,783 [main] INFO ExcelUtils - Yes
+2018-02-04 18:21:45,783 [main] INFO ExcelUtils - To test the login creditionals with valid uname and password but not the registered user.
+2018-02-04 18:21:45,783 [main] INFO ExcelUtils - Chrome
+2018-02-04 18:21:45,784 [main] INFO ExcelUtils - abirama.s@aricent.com
+2018-02-04 18:21:45,784 [main] INFO ExcelUtils - Skylark123
+2018-02-04 18:21:45,785 [main] INFO ExcelUtils - There was an error, please check your login credentials
+2018-02-04 18:21:45,785 [main] INFO WebUtils - Check and Verify Login Credintials
+2018-02-04 18:21:45,786 [main] INFO WebUtils - Set uname
+2018-02-04 18:21:45,846 [main] INFO WebUtils - Given Id of the element is loaded
+2018-02-04 18:21:45,847 [main] INFO WebUtils - Clear the webelement
+2018-02-04 18:21:45,977 [main] INFO WebUtils - Set the webelement with the given input value
+2018-02-04 18:21:46,479 [main] INFO WebUtils - Set password
+2018-02-04 18:21:46,527 [main] INFO WebUtils - Given Id of the element is loaded
+2018-02-04 18:21:46,528 [main] INFO WebUtils - Clear the webelement
+2018-02-04 18:21:46,653 [main] INFO WebUtils - Set the webelement with the given input value
+2018-02-04 18:21:46,917 [main] INFO WebUtils - Click submit button
+2018-02-04 18:21:46,975 [main] INFO WebUtils - Given Id of the element is loaded
+2018-02-04 18:21:46,976 [main] INFO WebUtils - Click the submitbutton
+2018-02-04 18:21:47,291 [main] INFO WebUtils - Popup Alert is not correct
+2018-02-04 18:21:48,027 [main] INFO WebUtils - Browser Closed
+2018-02-04 18:21:51,233 [main] INFO WebUtils - Browser Opened
+2018-02-04 18:21:51,239 [main] INFO WebUtils - Implict wait for 20 seconds to open the browser loadded with all the components
+2018-02-04 18:21:57,846 [main] INFO WebUtils - Constants.URL Opened
+2018-02-04 18:21:57,848 [main] INFO FunctionalityTestCases - Test6 - Home Page Login Validation with password is empty
+2018-02-04 18:21:57,849 [main] INFO ExcelUtils - TVOWebTC6
+2018-02-04 18:21:57,850 [main] INFO ExcelUtils - testHPLoginValidation5
+2018-02-04 18:21:57,851 [main] INFO ExcelUtils - Yes
+2018-02-04 18:21:57,852 [main] INFO ExcelUtils - To test the login creditionals with password is empty or null
+2018-02-04 18:21:57,852 [main] INFO ExcelUtils - Chrome
+2018-02-04 18:21:57,853 [main] INFO ExcelUtils - abirama.s@aricent.com
+2018-02-04 18:21:57,854 [main] INFO ExcelUtils - 
+2018-02-04 18:21:57,854 [main] INFO ExcelUtils - Please provide a password
+2018-02-04 18:21:57,855 [main] INFO WebUtils - Check and Verify Login Credintials
+2018-02-04 18:21:57,855 [main] INFO WebUtils - Set uname
+2018-02-04 18:21:57,956 [main] INFO WebUtils - Given Id of the element is loaded
+2018-02-04 18:21:57,957 [main] INFO WebUtils - Clear the webelement
+2018-02-04 18:21:58,073 [main] INFO WebUtils - Set the webelement with the given input value
+2018-02-04 18:21:58,359 [main] INFO WebUtils - Set password
+2018-02-04 18:21:58,389 [main] INFO WebUtils - Given Id of the element is loaded
+2018-02-04 18:21:58,390 [main] INFO WebUtils - Clear the webelement
+2018-02-04 18:21:58,496 [main] INFO WebUtils - Set the webelement with the given input value
+2018-02-04 18:21:58,648 [main] INFO WebUtils - Click submit button
+2018-02-04 18:21:58,697 [main] INFO WebUtils - Given Id of the element is loaded
+2018-02-04 18:21:58,697 [main] INFO WebUtils - Click the submitbutton
+2018-02-04 18:21:58,977 [main] INFO WebUtils - Popup Alert is coorect
+2018-02-04 18:21:59,700 [main] INFO WebUtils - Browser Closed
+2018-02-04 18:22:02,505 [main] INFO WebUtils - Browser Opened
+2018-02-04 18:22:02,511 [main] INFO WebUtils - Implict wait for 20 seconds to open the browser loadded with all the components
+2018-02-04 18:22:11,485 [main] INFO WebUtils - Constants.URL Opened
+2018-02-04 18:22:11,486 [main] INFO FunctionalityTestCases - Test7 - Registration Page Login Validation
+2018-02-04 18:22:11,487 [main] INFO ExcelUtils - TVOWebTC7
+2018-02-04 18:22:11,487 [main] INFO ExcelUtils - testRegPageValidation1
+2018-02-04 18:22:11,488 [main] INFO ExcelUtils - Yes
+2018-02-04 18:22:11,488 [main] INFO ExcelUtils - To test the various elements present in the Home page, is loaded properly or not
+2018-02-04 18:22:11,489 [main] INFO ExcelUtils - Chrome
+2018-02-04 18:22:11,491 [main] INFO ExcelUtils - 
+2018-02-04 18:22:11,492 [main] INFO ExcelUtils - 
+2018-02-04 18:22:11,492 [main] INFO ExcelUtils - Registration page loaded successfully
+2018-02-04 18:22:11,493 [main] INFO WebUtils - Check Registration Page
+2018-02-04 18:22:13,045 [main] INFO WebUtils - Navigated to Registration Page and Maximized
+2018-02-04 18:22:13,046 [main] INFO WebUtils - Check Registration Page MPower Logo is loaded or not
+2018-02-04 18:22:13,105 [main] INFO WebUtils - TVO mPower logo is loaded in Registration Page
+2018-02-04 18:22:13,106 [main] INFO WebUtils - Check Registration Page Text are loaded or not
+2018-02-04 18:22:13,243 [main] INFO WebUtils - All the Text in the Registration Page loaded successfully
+2018-02-04 18:22:13,243 [main] INFO WebUtils - Check Registration Page elements/fields are loaded or not
+2018-02-04 18:22:13,793 [main] INFO WebUtils - All the elements/field in the Registration Page loaded successfully
+2018-02-04 18:22:13,794 [main] INFO WebUtils - Registration page loaded successfully
+2018-02-04 18:22:14,513 [main] INFO WebUtils - Browser Closed
+2018-02-04 18:22:17,394 [main] INFO WebUtils - Browser Opened
+2018-02-04 18:22:17,398 [main] INFO WebUtils - Implict wait for 20 seconds to open the browser loadded with all the components
+2018-02-04 18:22:30,289 [main] INFO WebUtils - Constants.URL Opened
+2018-02-04 18:22:30,290 [main] INFO FunctionalityTestCases - Test1 - Home Page Validation
+2018-02-04 18:22:30,291 [main] INFO ExcelUtils - TVOWebTC1
+2018-02-04 18:22:30,291 [main] INFO ExcelUtils - testHomePageValidation1
+2018-02-04 18:22:30,292 [main] INFO ExcelUtils - Yes
+2018-02-04 18:22:30,292 [main] INFO ExcelUtils - To test the various elements present in the Home page, is loaded properly or not
+2018-02-04 18:22:30,293 [main] INFO ExcelUtils - Chrome
+2018-02-04 18:22:30,293 [main] INFO ExcelUtils - -
+2018-02-04 18:22:30,294 [main] INFO ExcelUtils - -
+2018-02-04 18:22:30,294 [main] INFO ExcelUtils - Home page loaded successfully
+2018-02-04 18:22:31,431 [main] INFO WebUtils - Check Home page logo is loaded or not
+2018-02-04 18:22:31,549 [main] INFO WebUtils - TVO mPower logo is loaded in Home Page
+2018-02-04 18:22:31,550 [main] INFO WebUtils - Check All the Text of the Home Page loaded or not
+2018-02-04 18:22:31,969 [main] INFO WebUtils - All the Text in the Home Page Loaded Successfully
+2018-02-04 18:22:31,970 [main] INFO WebUtils - Check all the elements/fields of the Home Page loaged or not
+2018-02-04 18:22:32,518 [main] INFO WebUtils - All the elements/field of the Registration Page is loaded successfully
+2018-02-04 18:22:32,519 [main] INFO WebUtils - Home Page Loaded Successfully
+2018-02-04 18:22:33,217 [main] INFO WebUtils - Browser Closed
+2018-02-04 18:22:33,218 [main] INFO WebUtils - Browser Closed
+2018-02-04 18:22:33,328 [main] INFO ExcelUtils - Test Input Excel is Opened
+2018-02-04 18:22:36,871 [main] INFO WebUtils - Browser Opened
+2018-02-04 18:22:36,877 [main] INFO WebUtils - Implict wait for 20 seconds to open the browser loadded with all the components
+2018-02-04 18:22:46,510 [main] INFO WebUtils - Constants.URL Opened
+2018-02-04 18:22:46,510 [main] INFO NavigatePageLinkTestCases - Test4 - Verify all the links in HP is working or broken
+2018-02-04 18:22:46,566 [main] INFO ExcelUtils - TVOWebTC11
+2018-02-04 18:22:46,567 [main] INFO ExcelUtils - LinkNavigation1
+2018-02-04 18:22:46,567 [main] INFO ExcelUtils - Yes
+2018-02-04 18:22:46,567 [main] INFO ExcelUtils - To test and verify all the links in the home page is broken or not
+2018-02-04 18:22:46,568 [main] INFO ExcelUtils - Chrome
+2018-02-04 18:22:46,568 [main] INFO ExcelUtils - 
+2018-02-04 18:22:46,568 [main] INFO ExcelUtils - 
+2018-02-04 18:22:46,569 [main] INFO ExcelUtils - true
+2018-02-04 18:22:49,773 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 18:22:49,850 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 18:22:49,945 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 18:22:50,032 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 18:22:50,284 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 18:22:50,398 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 18:22:50,496 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 18:22:50,586 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 18:22:50,682 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 18:22:50,776 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 18:22:50,863 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 18:22:50,941 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 18:22:51,026 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 18:22:51,135 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 18:22:51,218 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 18:22:51,313 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 18:22:51,340 [main] INFO WebUtils - Link or URL is broken
+2018-02-04 18:22:51,341 [main] INFO WebUtils - Link is broken
+2018-02-04 18:22:51,501 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 18:22:51,594 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 18:22:51,688 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 18:22:51,799 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 18:22:51,876 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 18:22:51,877 [main] INFO WebUtils - Link or URL is broken
+2018-02-04 18:22:51,877 [main] INFO WebUtils - Link is broken
+2018-02-04 18:22:52,587 [main] INFO WebUtils - Browser Closed
+2018-02-04 18:22:55,502 [main] INFO WebUtils - Browser Opened
+2018-02-04 18:22:55,509 [main] INFO WebUtils - Implict wait for 20 seconds to open the browser loadded with all the components
+2018-02-04 18:23:07,950 [main] INFO WebUtils - Constants.URL Opened
+2018-02-04 18:23:07,951 [main] INFO NavigatePageLinkTestCases - Test5 - Verify all the links in the registration page is working or broken
+2018-02-04 18:23:07,951 [main] INFO ExcelUtils - TVOWebTC12
+2018-02-04 18:23:07,952 [main] INFO ExcelUtils - LinkNavigation2
+2018-02-04 18:23:07,952 [main] INFO ExcelUtils - Yes
+2018-02-04 18:23:07,953 [main] INFO ExcelUtils - To test and verify all the links in the registration page is broken or not
+2018-02-04 18:23:07,953 [main] INFO ExcelUtils - Chrome
+2018-02-04 18:23:07,953 [main] INFO ExcelUtils - 
+2018-02-04 18:23:07,954 [main] INFO ExcelUtils - 
+2018-02-04 18:23:07,954 [main] INFO ExcelUtils - true
+2018-02-04 18:23:09,458 [main] INFO WebUtils - Navigated to Registration Page and Maximized
+2018-02-04 18:23:10,059 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 18:23:10,144 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 18:23:10,234 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 18:23:10,322 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 18:23:10,419 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 18:23:10,514 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 18:23:10,644 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 18:23:10,735 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 18:23:10,816 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 18:23:10,911 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 18:23:10,977 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 18:23:11,074 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 18:23:11,075 [main] INFO WebUtils - Link or URL is broken
+2018-02-04 18:23:11,076 [main] INFO WebUtils - Link is broken
+2018-02-04 18:23:11,121 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 18:23:11,229 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 18:23:11,307 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 18:23:11,378 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 18:23:11,378 [main] INFO WebUtils - Link or URL is broken
+2018-02-04 18:23:11,379 [main] INFO WebUtils - Link is broken
+2018-02-04 18:23:12,081 [main] INFO WebUtils - Browser Closed
+2018-02-04 18:23:15,548 [main] INFO WebUtils - Browser Opened
+2018-02-04 18:23:15,553 [main] INFO WebUtils - Implict wait for 20 seconds to open the browser loadded with all the components
+2018-02-04 18:23:24,540 [main] INFO WebUtils - Constants.URL Opened
+2018-02-04 18:23:24,541 [main] INFO NavigatePageLinkTestCases - Test1 - Page Navigation from HP to RegPage to HP
+2018-02-04 18:23:24,541 [main] INFO ExcelUtils - TVOWebTC8
+2018-02-04 18:23:24,542 [main] INFO ExcelUtils - PageNavigation1
+2018-02-04 18:23:24,543 [main] INFO ExcelUtils - Yes
+2018-02-04 18:23:24,543 [main] INFO ExcelUtils - To test the navigation from home page to registration page and then back to home page
+2018-02-04 18:23:24,544 [main] INFO ExcelUtils - Chrome
+2018-02-04 18:23:24,544 [main] INFO ExcelUtils - 
+2018-02-04 18:23:24,545 [main] INFO ExcelUtils - 
+2018-02-04 18:23:24,545 [main] INFO ExcelUtils - Home page loaded successfully
+2018-02-04 18:23:24,589 [main] INFO WebUtils - Check Registration Page MPower Logo is loaded or not
+2018-02-04 18:23:25,755 [main] INFO WebUtils - Unable to find the tvo mPower logo
+2018-02-04 18:23:25,757 [main] INFO WebUtils - Registration page not found
+2018-02-04 18:23:25,757 [main] INFO WebUtils - Page navigation to Registration page is unsuccessful
+2018-02-04 18:23:26,441 [main] INFO WebUtils - Browser Closed
+2018-02-04 18:23:28,786 [main] INFO WebUtils - Browser Opened
+2018-02-04 18:23:28,791 [main] INFO WebUtils - Implict wait for 20 seconds to open the browser loadded with all the components
+2018-02-04 18:23:39,418 [main] INFO WebUtils - Constants.URL Opened
+2018-02-04 18:23:39,419 [main] INFO NavigatePageLinkTestCases - Test2 - Page Navigation from HP to news window and cancel to HP
+2018-02-04 18:23:39,419 [main] INFO ExcelUtils - TVOWebTC9
+2018-02-04 18:23:39,420 [main] INFO ExcelUtils - PageNavigation2
+2018-02-04 18:23:39,420 [main] INFO ExcelUtils - Yes
+2018-02-04 18:23:39,421 [main] INFO ExcelUtils - To test the navigation from home page to login page news window pop-up and click cancel to back to home page
+2018-02-04 18:23:39,421 [main] INFO ExcelUtils - Chrome
+2018-02-04 18:23:39,422 [main] INFO ExcelUtils - 
+2018-02-04 18:23:39,422 [main] INFO ExcelUtils - 
+2018-02-04 18:23:39,423 [main] INFO ExcelUtils - true
+2018-02-04 18:23:40,274 [main] INFO WebUtils - Page navigation from Home page to login news window and the home page is successfu;
+2018-02-04 18:23:40,983 [main] INFO WebUtils - Browser Closed
+2018-02-04 18:23:44,472 [main] INFO WebUtils - Browser Opened
+2018-02-04 18:23:44,478 [main] INFO WebUtils - Implict wait for 20 seconds to open the browser loadded with all the components
+2018-02-04 18:23:54,489 [main] INFO WebUtils - Constants.URL Opened
+2018-02-04 18:23:54,490 [main] INFO NavigatePageLinkTestCases - Test3 - Page Navigation from HP to Play page
+2018-02-04 18:23:54,490 [main] INFO ExcelUtils - TVOWebTC10
+2018-02-04 18:23:54,491 [main] INFO ExcelUtils - PageNavigation3
+2018-02-04 18:23:54,491 [main] INFO ExcelUtils - Yes
+2018-02-04 18:23:54,491 [main] INFO ExcelUtils - To test the navigation from home page to login page play  window and then back to home page
+2018-02-04 18:23:54,493 [main] INFO ExcelUtils - Chrome
+2018-02-04 18:23:54,493 [main] INFO ExcelUtils - 
+2018-02-04 18:23:54,494 [main] INFO ExcelUtils - 
+2018-02-04 18:23:54,494 [main] INFO ExcelUtils - true
+2018-02-04 18:23:54,956 [main] INFO WebUtils - Page navigation from Home Page to kids play page is successful
+2018-02-04 18:23:55,693 [main] INFO WebUtils - Browser Closed
+2018-02-04 18:23:55,697 [main] INFO CompatibilityTestCases - Test1 - To test page loaded using chrome is successful or not
+2018-02-04 18:23:55,697 [main] INFO ExcelUtils - TVOWebTC13
+2018-02-04 18:23:55,698 [main] INFO ExcelUtils - CompatibilityTest1
+2018-02-04 18:23:55,698 [main] INFO ExcelUtils - Yes
+2018-02-04 18:23:55,698 [main] INFO ExcelUtils - To test page loaded using chrome is successful or not
+2018-02-04 18:23:55,698 [main] INFO ExcelUtils - Chrome
+2018-02-04 18:23:55,699 [main] INFO ExcelUtils - 
+2018-02-04 18:23:55,699 [main] INFO ExcelUtils - 
+2018-02-04 18:23:55,699 [main] INFO ExcelUtils - true
+2018-02-04 18:23:55,700 [main] INFO WebUtils - Open Browser
+2018-02-04 18:23:59,850 [main] INFO WebUtils - Browser Opened
+2018-02-04 18:23:59,857 [main] INFO WebUtils - Implict wait for 20 seconds to open the browser loadded with all the components
+2018-02-04 18:24:12,180 [main] INFO WebUtils - Constants.URL Opened
+2018-02-04 18:24:12,180 [main] INFO WebUtils - Check page loaded is proper or not
+2018-02-04 18:24:13,318 [main] INFO WebUtils - Check Home Page logo is present or not 
+2018-02-04 18:24:13,396 [main] INFO WebUtils - TVO mPower logo is loaded in Home Page
+2018-02-04 18:24:13,397 [main] INFO WebUtils - Check all the text in the Home page is present or not
+2018-02-04 18:24:13,698 [main] INFO WebUtils - All the Text in the Home Page Loaded Successfully
+2018-02-04 18:24:13,698 [main] INFO WebUtils - Check all the elements/fields or present or not
+2018-02-04 18:24:14,253 [main] INFO WebUtils - All the elements/field of the Registration Page is loaded successfully
+2018-02-04 18:24:14,254 [main] INFO WebUtils - Page Loaded Successfully
+2018-02-04 18:24:14,255 [main] INFO WebUtils - Close the browser
+2018-02-04 18:24:14,970 [main] INFO WebUtils - Browser Closed
+2018-02-04 18:24:14,973 [main] INFO CompatibilityTestCases - Test2 - To test page loaded using firefox is successful or not
+2018-02-04 18:24:14,974 [main] INFO ExcelUtils - TVOWebTC14
+2018-02-04 18:24:14,974 [main] INFO ExcelUtils - CompatibilityTest2
+2018-02-04 18:24:14,975 [main] INFO ExcelUtils - Yes
+2018-02-04 18:24:14,975 [main] INFO ExcelUtils - To test page loaded using firefox is successful or not
+2018-02-04 18:24:14,975 [main] INFO ExcelUtils - FireFox
+2018-02-04 18:24:14,976 [main] INFO ExcelUtils - 
+2018-02-04 18:24:14,976 [main] INFO ExcelUtils - 
+2018-02-04 18:24:14,976 [main] INFO ExcelUtils - true
+2018-02-04 18:24:14,977 [main] INFO WebUtils - Open Browser
+2018-02-04 18:24:37,203 [main] INFO WebUtils - Browser Opened
+2018-02-04 18:24:37,379 [main] INFO WebUtils - Implict wait for 20 seconds to open the browser loadded with all the components
+2018-02-04 18:24:44,692 [main] INFO WebUtils - Constants.URL Opened
+2018-02-04 18:24:44,692 [main] INFO WebUtils - Check page loaded is proper or not
+2018-02-04 18:24:48,268 [main] INFO WebUtils - Check Home Page logo is present or not 
+2018-02-04 18:24:48,437 [main] INFO WebUtils - TVO mPower logo is loaded in Home Page
+2018-02-04 18:24:48,438 [main] INFO WebUtils - Check all the text in the Home page is present or not
+2018-02-04 18:24:48,925 [main] INFO WebUtils - All the Text in the Home Page Loaded Successfully
+2018-02-04 18:24:48,925 [main] INFO WebUtils - Check all the elements/fields or present or not
+2018-02-04 18:24:49,763 [main] INFO WebUtils - All the elements/field of the Registration Page is loaded successfully
+2018-02-04 18:24:49,764 [main] INFO WebUtils - Page Loaded Successfully
+2018-02-04 18:24:49,764 [main] INFO WebUtils - Close the browser
+2018-02-04 18:24:50,739 [main] INFO WebUtils - Browser Closed
+2018-02-04 18:24:50,885 [main] INFO CompatibilityTestCases - Test3 - To test page loaded using Internet Explorer is successful or not
+2018-02-04 18:24:50,886 [main] INFO ExcelUtils - TVOWebTC15
+2018-02-04 18:24:50,887 [main] INFO ExcelUtils - CompatibilityTest3
+2018-02-04 18:24:50,887 [main] INFO ExcelUtils - Yes
+2018-02-04 18:24:50,887 [main] INFO ExcelUtils - To test page loaded using Internet Explorer is successful or not
+2018-02-04 18:24:50,888 [main] INFO ExcelUtils - InternetExplorer
+2018-02-04 18:24:50,888 [main] INFO ExcelUtils - 
+2018-02-04 18:24:50,888 [main] INFO ExcelUtils - 
+2018-02-04 18:24:50,889 [main] INFO ExcelUtils - true
+2018-02-04 18:24:50,889 [main] INFO WebUtils - Open Browser
+2018-02-04 18:29:17,582 [main] INFO ExcelUtils - Test Input Excel is Opened
+2018-02-04 18:29:33,892 [main] INFO WebUtils - Browser Opened
+2018-02-04 18:29:33,904 [main] INFO WebUtils - Implict wait for 20 seconds to open the browser loadded with all the components
+2018-02-04 18:29:39,154 [main] INFO WebUtils - Constants.URL Opened
+2018-02-04 18:29:39,155 [main] INFO FunctionalityTestCases - Test2 - Home Page Login Validation with uname and password is empty or null
+2018-02-04 18:29:39,302 [main] INFO WebUtils - Check and Verify Login Credintials
+2018-02-04 18:29:39,303 [main] INFO WebUtils - Set uname
+2018-02-04 18:29:46,978 [main] INFO WebUtils - Given Id of the element is loaded
+2018-02-04 18:29:46,979 [main] INFO WebUtils - Clear the webelement
+2018-02-04 18:29:49,298 [main] INFO WebUtils - Set the webelement with the given input value
+2018-02-04 18:29:49,537 [main] INFO WebUtils - Set password
+2018-02-04 18:29:49,563 [main] INFO WebUtils - Given Id of the element is loaded
+2018-02-04 18:29:49,564 [main] INFO WebUtils - Clear the webelement
+2018-02-04 18:29:49,625 [main] INFO WebUtils - Set the webelement with the given input value
+2018-02-04 18:29:49,850 [main] INFO WebUtils - Click submit button
+2018-02-04 18:29:49,888 [main] INFO WebUtils - Given Id of the element is loaded
+2018-02-04 18:29:49,892 [main] INFO WebUtils - Click the submitbutton
+2018-02-04 18:29:51,013 [main] INFO WebUtils - Popup Alert is coorect
+2018-02-04 18:29:51,970 [main] INFO WebUtils - Browser Closed
+2018-02-04 18:29:56,181 [main] INFO WebUtils - Browser Opened
+2018-02-04 18:29:56,188 [main] INFO WebUtils - Implict wait for 20 seconds to open the browser loadded with all the components
+2018-02-04 18:30:04,114 [main] INFO WebUtils - Constants.URL Opened
+2018-02-04 18:30:04,115 [main] INFO FunctionalityTestCases - Test3 - Home Page Login Validation with invalid uname and valid password
+2018-02-04 18:30:04,116 [main] INFO WebUtils - Check and Verify Login Credintials
+2018-02-04 18:30:04,117 [main] INFO WebUtils - Set uname
+2018-02-04 18:30:04,182 [main] INFO WebUtils - Given Id of the element is loaded
+2018-02-04 18:30:04,183 [main] INFO WebUtils - Clear the webelement
+2018-02-04 18:30:04,400 [main] INFO WebUtils - Set the webelement with the given input value
+2018-02-04 18:30:04,785 [main] INFO WebUtils - Set password
+2018-02-04 18:30:04,829 [main] INFO WebUtils - Given Id of the element is loaded
+2018-02-04 18:30:04,830 [main] INFO WebUtils - Clear the webelement
+2018-02-04 18:30:04,978 [main] INFO WebUtils - Set the webelement with the given input value
+2018-02-04 18:30:05,234 [main] INFO WebUtils - Click submit button
+2018-02-04 18:30:05,273 [main] INFO WebUtils - Given Id of the element is loaded
+2018-02-04 18:30:05,274 [main] INFO WebUtils - Click the submitbutton
+2018-02-04 18:30:05,588 [main] INFO WebUtils - Popup Alert is coorect
+2018-02-04 18:30:06,304 [main] INFO WebUtils - Browser Closed
+2018-02-04 18:30:10,164 [main] INFO WebUtils - Browser Opened
+2018-02-04 18:30:10,175 [main] INFO WebUtils - Implict wait for 20 seconds to open the browser loadded with all the components
+2018-02-04 18:30:18,747 [main] INFO WebUtils - Constants.URL Opened
+2018-02-04 18:30:18,749 [main] INFO FunctionalityTestCases - Test4 - Home Page Login Validation with invalid uname and valid password
+2018-02-04 18:30:18,750 [main] INFO WebUtils - Check and Verify Login Credintials
+2018-02-04 18:30:18,751 [main] INFO WebUtils - Set uname
+2018-02-04 18:30:18,791 [main] INFO WebUtils - Given Id of the element is loaded
+2018-02-04 18:30:18,792 [main] INFO WebUtils - Clear the webelement
+2018-02-04 18:30:18,874 [main] INFO WebUtils - Set the webelement with the given input value
+2018-02-04 18:30:19,415 [main] INFO WebUtils - Set password
+2018-02-04 18:30:19,467 [main] INFO WebUtils - Given Id of the element is loaded
+2018-02-04 18:30:19,467 [main] INFO WebUtils - Clear the webelement
+2018-02-04 18:30:19,562 [main] INFO WebUtils - Set the webelement with the given input value
+2018-02-04 18:30:19,740 [main] INFO WebUtils - Click submit button
+2018-02-04 18:30:19,789 [main] INFO WebUtils - Given Id of the element is loaded
+2018-02-04 18:30:19,790 [main] INFO WebUtils - Click the submitbutton
+2018-02-04 18:30:20,125 [main] INFO WebUtils - Popup Alert is coorect
+2018-02-04 18:30:20,127 [main] INFO FunctionalityTestCases - testHPLoginValidation3 Execution Completed
+2018-02-04 18:30:20,835 [main] INFO WebUtils - Browser Closed
+2018-02-04 18:30:23,893 [main] INFO WebUtils - Browser Opened
+2018-02-04 18:30:23,901 [main] INFO WebUtils - Implict wait for 20 seconds to open the browser loadded with all the components
+2018-02-04 18:30:33,121 [main] INFO WebUtils - Constants.URL Opened
+2018-02-04 18:30:33,122 [main] INFO FunctionalityTestCases - Test5 - Home Page Login Validation with valid uname and password for the non registered user
+2018-02-04 18:30:33,122 [main] INFO WebUtils - Check and Verify Login Credintials
+2018-02-04 18:30:33,123 [main] INFO WebUtils - Set uname
+2018-02-04 18:30:33,160 [main] INFO WebUtils - Given Id of the element is loaded
+2018-02-04 18:30:33,161 [main] INFO WebUtils - Clear the webelement
+2018-02-04 18:30:33,244 [main] INFO WebUtils - Set the webelement with the given input value
+2018-02-04 18:30:33,551 [main] INFO WebUtils - Set password
+2018-02-04 18:30:33,594 [main] INFO WebUtils - Given Id of the element is loaded
+2018-02-04 18:30:33,595 [main] INFO WebUtils - Clear the webelement
+2018-02-04 18:30:33,700 [main] INFO WebUtils - Set the webelement with the given input value
+2018-02-04 18:30:33,972 [main] INFO WebUtils - Click submit button
+2018-02-04 18:30:34,026 [main] INFO WebUtils - Given Id of the element is loaded
+2018-02-04 18:30:34,027 [main] INFO WebUtils - Click the submitbutton
+2018-02-04 18:30:34,312 [main] INFO WebUtils - Popup Alert is not correct
+2018-02-04 18:30:35,023 [main] INFO WebUtils - Browser Closed
+2018-02-04 18:30:37,296 [main] INFO WebUtils - Browser Opened
+2018-02-04 18:30:37,303 [main] INFO WebUtils - Implict wait for 20 seconds to open the browser loadded with all the components
+2018-02-04 18:30:44,122 [main] INFO WebUtils - Constants.URL Opened
+2018-02-04 18:30:44,123 [main] INFO FunctionalityTestCases - Test6 - Home Page Login Validation with password is empty
+2018-02-04 18:30:44,123 [main] INFO WebUtils - Check and Verify Login Credintials
+2018-02-04 18:30:44,124 [main] INFO WebUtils - Set uname
+2018-02-04 18:30:44,158 [main] INFO WebUtils - Given Id of the element is loaded
+2018-02-04 18:30:44,158 [main] INFO WebUtils - Clear the webelement
+2018-02-04 18:30:44,398 [main] INFO WebUtils - Set the webelement with the given input value
+2018-02-04 18:30:44,928 [main] INFO WebUtils - Set password
+2018-02-04 18:30:44,965 [main] INFO WebUtils - Given Id of the element is loaded
+2018-02-04 18:30:44,966 [main] INFO WebUtils - Clear the webelement
+2018-02-04 18:30:45,062 [main] INFO WebUtils - Set the webelement with the given input value
+2018-02-04 18:30:45,227 [main] INFO WebUtils - Click submit button
+2018-02-04 18:30:45,258 [main] INFO WebUtils - Given Id of the element is loaded
+2018-02-04 18:30:45,259 [main] INFO WebUtils - Click the submitbutton
+2018-02-04 18:30:45,528 [main] INFO WebUtils - Popup Alert is coorect
+2018-02-04 18:30:46,233 [main] INFO WebUtils - Browser Closed
+2018-02-04 18:30:48,428 [main] INFO WebUtils - Browser Opened
+2018-02-04 18:30:48,433 [main] INFO WebUtils - Implict wait for 20 seconds to open the browser loadded with all the components
+2018-02-04 18:30:58,133 [main] INFO WebUtils - Constants.URL Opened
+2018-02-04 18:30:58,134 [main] INFO FunctionalityTestCases - Test7 - Registration Page Login Validation
+2018-02-04 18:30:58,135 [main] INFO WebUtils - Check Registration Page
+2018-02-04 18:30:59,607 [main] INFO WebUtils - Navigated to Registration Page and Maximized
+2018-02-04 18:30:59,608 [main] INFO WebUtils - Check Registration Page MPower Logo is loaded or not
+2018-02-04 18:30:59,683 [main] INFO WebUtils - TVO mPower logo is loaded in Registration Page
+2018-02-04 18:30:59,683 [main] INFO WebUtils - Check Registration Page Text are loaded or not
+2018-02-04 18:30:59,875 [main] INFO WebUtils - All the Text in the Registration Page loaded successfully
+2018-02-04 18:30:59,876 [main] INFO WebUtils - Check Registration Page elements/fields are loaded or not
+2018-02-04 18:31:00,847 [main] INFO WebUtils - All the elements/field in the Registration Page loaded successfully
+2018-02-04 18:31:00,848 [main] INFO WebUtils - Registration page loaded successfully
+2018-02-04 18:31:01,768 [main] INFO WebUtils - Browser Closed
+2018-02-04 18:31:03,980 [main] INFO WebUtils - Browser Opened
+2018-02-04 18:31:04,024 [main] INFO WebUtils - Implict wait for 20 seconds to open the browser loadded with all the components
+2018-02-04 18:31:14,438 [main] INFO WebUtils - Constants.URL Opened
+2018-02-04 18:31:14,439 [main] INFO FunctionalityTestCases - Test1 - Home Page Validation
+2018-02-04 18:31:15,582 [main] INFO WebUtils - Check Home page logo is loaded or not
+2018-02-04 18:31:15,711 [main] INFO WebUtils - TVO mPower logo is loaded in Home Page
+2018-02-04 18:31:15,711 [main] INFO WebUtils - Check All the Text of the Home Page loaded or not
+2018-02-04 18:31:16,085 [main] INFO WebUtils - All the Text in the Home Page Loaded Successfully
+2018-02-04 18:31:16,087 [main] INFO WebUtils - Check all the elements/fields of the Home Page loaged or not
+2018-02-04 18:31:16,694 [main] INFO WebUtils - All the elements/field of the Registration Page is loaded successfully
+2018-02-04 18:31:16,695 [main] INFO WebUtils - Home Page Loaded Successfully
+2018-02-04 18:31:17,399 [main] INFO WebUtils - Browser Closed
+2018-02-04 18:31:17,400 [main] INFO WebUtils - Browser Closed
+2018-02-04 18:31:17,400 [main] INFO ExcelUtils - Test Input File - D:/Selenium/TVOWebTestInputs.xls
+2018-02-04 18:31:17,515 [main] INFO ExcelUtils - Test Input Excel is Opened
+2018-02-04 18:31:20,433 [main] INFO WebUtils - Browser Opened
+2018-02-04 18:31:20,438 [main] INFO WebUtils - Implict wait for 20 seconds to open the browser loadded with all the components
+2018-02-04 18:31:28,031 [main] INFO WebUtils - Constants.URL Opened
+2018-02-04 18:31:28,031 [main] INFO NavigatePageLinkTestCases - Test4 - Verify all the links in HP is working or broken
+2018-02-04 18:31:30,127 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 18:31:30,204 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 18:31:30,299 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 18:31:30,414 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 18:31:30,495 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 18:31:30,596 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 18:31:30,722 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 18:31:30,838 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 18:31:31,124 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 18:31:31,231 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 18:31:31,349 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 18:31:31,435 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 18:31:31,523 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 18:31:31,595 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 18:31:31,689 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 18:31:31,799 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 18:31:31,800 [main] INFO WebUtils - Link or URL is broken
+2018-02-04 18:31:31,801 [main] INFO WebUtils - Link is broken
+2018-02-04 18:31:31,883 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 18:31:31,982 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 18:31:32,081 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 18:31:32,175 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 18:31:32,250 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 18:31:32,251 [main] INFO WebUtils - Link or URL is broken
+2018-02-04 18:31:32,251 [main] INFO WebUtils - Link is broken
+2018-02-04 18:31:32,969 [main] INFO WebUtils - Browser Closed
+2018-02-04 18:31:35,755 [main] INFO WebUtils - Browser Opened
+2018-02-04 18:31:35,761 [main] INFO WebUtils - Implict wait for 20 seconds to open the browser loadded with all the components
+2018-02-04 18:31:47,290 [main] INFO WebUtils - Constants.URL Opened
+2018-02-04 18:31:47,291 [main] INFO NavigatePageLinkTestCases - Test5 - Verify all the links in the registration page is working or broken
+2018-02-04 18:31:49,035 [main] INFO WebUtils - Navigated to Registration Page and Maximized
+2018-02-04 18:31:49,691 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 18:31:49,778 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 18:31:49,906 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 18:31:49,999 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 18:31:50,081 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 18:31:50,168 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 18:31:50,279 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 18:31:50,380 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 18:31:50,607 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 18:31:50,695 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 18:31:50,767 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 18:31:50,866 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 18:31:50,867 [main] INFO WebUtils - Link or URL is broken
+2018-02-04 18:31:50,867 [main] INFO WebUtils - Link is broken
+2018-02-04 18:31:50,927 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 18:31:51,013 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 18:31:51,107 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 18:31:51,183 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 18:31:51,183 [main] INFO WebUtils - Link or URL is broken
+2018-02-04 18:31:51,184 [main] INFO WebUtils - Link is broken
+2018-02-04 18:31:51,912 [main] INFO WebUtils - Browser Closed
+2018-02-04 18:31:54,828 [main] INFO WebUtils - Browser Opened
+2018-02-04 18:31:54,833 [main] INFO WebUtils - Implict wait for 20 seconds to open the browser loadded with all the components
+2018-02-04 18:32:03,427 [main] INFO WebUtils - Constants.URL Opened
+2018-02-04 18:32:03,427 [main] INFO NavigatePageLinkTestCases - Test1 - Page Navigation from HP to RegPage to HP
+2018-02-04 18:32:04,017 [main] INFO WebUtils - Check Registration Page MPower Logo is loaded or not
+2018-02-04 18:32:04,090 [main] INFO WebUtils - TVO mPower logo is loaded in Registration Page
+2018-02-04 18:32:04,091 [main] INFO WebUtils - Check Registration Page Text are loaded or not
+2018-02-04 18:32:04,197 [main] INFO WebUtils - All the Text in the Registration Page loaded successfully
+2018-02-04 18:32:04,197 [main] INFO WebUtils - Check Registration Page elements/fields are loaded or not
+2018-02-04 18:32:04,806 [main] INFO WebUtils - All the elements/field in the Registration Page loaded successfully
+2018-02-04 18:32:04,806 [main] INFO WebUtils - Registration page loaded successfully
+2018-02-04 18:32:04,806 [main] INFO WebUtils - Successfully Navigated to Registration Page
+2018-02-04 18:32:06,352 [main] INFO WebUtils - Check Home page logo is loaded or not
+2018-02-04 18:32:06,442 [main] INFO WebUtils - TVO mPower logo is loaded in Home Page
+2018-02-04 18:32:06,442 [main] INFO WebUtils - Check All the Text of the Home Page loaded or not
+2018-02-04 18:32:06,745 [main] INFO WebUtils - All the Text in the Home Page Loaded Successfully
+2018-02-04 18:32:06,746 [main] INFO WebUtils - Check all the elements/fields of the Home Page loaged or not
+2018-02-04 18:32:07,404 [main] INFO WebUtils - All the elements/field of the Registration Page is loaded successfully
+2018-02-04 18:32:07,404 [main] INFO WebUtils - Home Page Loaded Successfully
+2018-02-04 18:32:08,115 [main] INFO WebUtils - Browser Closed
+2018-02-04 18:32:12,728 [main] INFO WebUtils - Browser Opened
+2018-02-04 18:32:12,734 [main] INFO WebUtils - Implict wait for 20 seconds to open the browser loadded with all the components
+2018-02-04 18:32:15,192 [main] INFO WebUtils - Constants.URL Opened
+2018-02-04 18:32:15,193 [main] INFO NavigatePageLinkTestCases - Test2 - Page Navigation from HP to news window and cancel to HP
+2018-02-04 18:32:20,532 [main] INFO WebUtils - Page navigation from Home page to login news window and the home page is successfu;
+2018-02-04 18:32:21,260 [main] INFO WebUtils - Browser Closed
+2018-02-04 18:32:24,224 [main] INFO WebUtils - Browser Opened
+2018-02-04 18:32:24,229 [main] INFO WebUtils - Implict wait for 20 seconds to open the browser loadded with all the components
+2018-02-04 18:32:35,341 [main] INFO WebUtils - Constants.URL Opened
+2018-02-04 18:32:35,342 [main] INFO NavigatePageLinkTestCases - Test3 - Page Navigation from HP to Play page
+2018-02-04 18:32:35,679 [main] INFO WebUtils - Page navigation from Home Page to kids play page is successful
+2018-02-04 18:32:36,507 [main] INFO WebUtils - Browser Closed
+2018-02-04 18:32:36,512 [main] INFO CompatibilityTestCases - Test1 - To test page loaded using chrome is successful or not
+2018-02-04 18:32:36,513 [main] INFO WebUtils - Open Browser
+2018-02-04 18:32:39,525 [main] INFO WebUtils - Browser Opened
+2018-02-04 18:32:39,530 [main] INFO WebUtils - Implict wait for 20 seconds to open the browser loadded with all the components
+2018-02-04 18:32:46,739 [main] INFO WebUtils - Constants.URL Opened
+2018-02-04 18:32:46,740 [main] INFO WebUtils - Check page loaded is proper or not
+2018-02-04 18:32:47,875 [main] INFO WebUtils - Check Home Page logo is present or not 
+2018-02-04 18:32:47,949 [main] INFO WebUtils - TVO mPower logo is loaded in Home Page
+2018-02-04 18:32:47,951 [main] INFO WebUtils - Check all the text in the Home page is present or not
+2018-02-04 18:32:48,278 [main] INFO WebUtils - All the Text in the Home Page Loaded Successfully
+2018-02-04 18:32:48,279 [main] INFO WebUtils - Check all the elements/fields or present or not
+2018-02-04 18:32:48,846 [main] INFO WebUtils - All the elements/field of the Registration Page is loaded successfully
+2018-02-04 18:32:48,847 [main] INFO WebUtils - Page Loaded Successfully
+2018-02-04 18:32:48,848 [main] INFO WebUtils - Close the browser
+2018-02-04 18:32:49,561 [main] INFO WebUtils - Browser Closed
+2018-02-04 18:32:49,564 [main] INFO CompatibilityTestCases - Test2 - To test page loaded using firefox is successful or not
+2018-02-04 18:32:49,565 [main] INFO WebUtils - Open Browser
+2018-02-04 18:33:09,737 [main] INFO WebUtils - Browser Opened
+2018-02-04 18:33:10,153 [main] INFO WebUtils - Implict wait for 20 seconds to open the browser loadded with all the components
+2018-02-04 18:33:16,217 [main] INFO WebUtils - Constants.URL Opened
+2018-02-04 18:33:16,218 [main] INFO WebUtils - Check page loaded is proper or not
+2018-02-04 18:33:19,864 [main] INFO WebUtils - Check Home Page logo is present or not 
+2018-02-04 18:33:20,203 [main] INFO WebUtils - TVO mPower logo is loaded in Home Page
+2018-02-04 18:33:20,203 [main] INFO WebUtils - Check all the text in the Home page is present or not
+2018-02-04 18:33:20,603 [main] INFO WebUtils - All the Text in the Home Page Loaded Successfully
+2018-02-04 18:33:20,604 [main] INFO WebUtils - Check all the elements/fields or present or not
+2018-02-04 18:33:21,460 [main] INFO WebUtils - All the elements/field of the Registration Page is loaded successfully
+2018-02-04 18:33:21,461 [main] INFO WebUtils - Page Loaded Successfully
+2018-02-04 18:33:21,461 [main] INFO WebUtils - Close the browser
+2018-02-04 18:33:22,504 [main] INFO WebUtils - Browser Closed
+2018-02-04 18:33:22,507 [main] INFO CompatibilityTestCases - Test3 - To test page loaded using Internet Explorer is successful or not
+2018-02-04 18:33:22,508 [main] INFO WebUtils - Open Browser
+2018-02-04 18:33:50,383 [main] INFO WebUtils - Browser Opened
+2018-02-04 18:33:50,398 [main] INFO WebUtils - Implict wait for 20 seconds to open the browser loadded with all the components
+2018-02-04 18:33:54,291 [main] INFO WebUtils - Constants.URL Opened
+2018-02-04 18:33:54,291 [main] INFO WebUtils - Check page loaded is proper or not
+2018-02-04 18:33:54,306 [main] INFO WebUtils - Check Home Page logo is present or not 
+2018-02-04 18:33:56,190 [main] INFO WebUtils - TVO mPower logo is loaded in Home Page
+2018-02-04 18:33:56,192 [main] INFO WebUtils - Check all the text in the Home page is present or not
+2018-02-04 18:33:58,637 [main] INFO WebUtils - All the Text in the Home Page Loaded Successfully
+2018-02-04 18:33:58,638 [main] INFO WebUtils - Check all the elements/fields or present or not
+2018-02-04 18:34:02,019 [main] INFO WebUtils - All the elements/field of the Registration Page is loaded successfully
+2018-02-04 18:34:02,020 [main] INFO WebUtils - Page Loaded Successfully
+2018-02-04 18:34:02,020 [main] INFO WebUtils - Close the browser
+2018-02-04 18:34:02,770 [main] INFO WebUtils - Browser Closed
+2018-02-04 21:30:41,735 [main] INFO ExcelUtils - Test Input Excel is Opened
+2018-02-04 21:30:56,956 [main] INFO WebUtils - Browser Opened
+2018-02-04 21:30:56,965 [main] INFO WebUtils - Implict wait for 20 seconds to open the browser loadded with all the components
+2018-02-04 21:31:12,395 [main] INFO WebUtils - Constants.URL Opened
+2018-02-04 21:31:12,397 [main] INFO FunctionalityTestCases - Test2 - Home Page Login Validation with uname and password is empty or null
+2018-02-04 21:31:12,725 [main] INFO WebUtils - Check and Verify Login Credintials
+2018-02-04 21:31:12,726 [main] INFO WebUtils - Set uname
+2018-02-04 21:31:12,984 [main] INFO WebUtils - Given Id of the element is loaded
+2018-02-04 21:31:12,985 [main] INFO WebUtils - Clear the webelement
+2018-02-04 21:31:13,234 [main] INFO WebUtils - Set the webelement with the given input value
+2018-02-04 21:31:13,628 [main] INFO WebUtils - Set password
+2018-02-04 21:31:13,684 [main] INFO WebUtils - Given Id of the element is loaded
+2018-02-04 21:31:13,685 [main] INFO WebUtils - Clear the webelement
+2018-02-04 21:31:13,803 [main] INFO WebUtils - Set the webelement with the given input value
+2018-02-04 21:31:14,081 [main] INFO WebUtils - Click submit button
+2018-02-04 21:31:14,122 [main] INFO WebUtils - Given Id of the element is loaded
+2018-02-04 21:31:14,124 [main] INFO WebUtils - Click the submitbutton
+2018-02-04 21:31:14,567 [main] INFO WebUtils - Popup Alert is coorect
+2018-02-04 21:31:15,548 [main] INFO WebUtils - Browser Closed
+2018-02-04 21:31:15,549 [main] INFO Log4jTestWatcher - testHPLoginValidation1(tvoWebTestClasses.FunctionalityTestCases)
+2018-02-04 21:31:19,414 [main] INFO WebUtils - Browser Opened
+2018-02-04 21:31:19,422 [main] INFO WebUtils - Implict wait for 20 seconds to open the browser loadded with all the components
+2018-02-04 21:31:26,636 [main] INFO WebUtils - Constants.URL Opened
+2018-02-04 21:31:26,637 [main] INFO FunctionalityTestCases - Test1 - Home Page Validation
+2018-02-04 21:31:27,879 [main] INFO WebUtils - Check Home page logo is loaded or not
+2018-02-04 21:31:27,994 [main] INFO WebUtils - TVO mPower logo is loaded in Home Page
+2018-02-04 21:31:27,995 [main] INFO WebUtils - Check All the Text of the Home Page loaded or not
+2018-02-04 21:31:28,518 [main] INFO WebUtils - All the Text in the Home Page Loaded Successfully
+2018-02-04 21:31:28,519 [main] INFO WebUtils - Check all the elements/fields of the Home Page loaged or not
+2018-02-04 21:31:29,049 [main] INFO WebUtils - All the elements/field of the Registration Page is loaded successfully
+2018-02-04 21:31:29,050 [main] INFO WebUtils - Home Page Loaded Successfully
+2018-02-04 21:31:29,843 [main] INFO WebUtils - Browser Closed
+2018-02-04 21:31:29,844 [main] INFO Log4jTestWatcher - testHomePageValidation1(tvoWebTestClasses.FunctionalityTestCases)
+2018-02-04 21:31:29,846 [main] INFO WebUtils - Browser Closed
+2018-02-04 21:31:29,847 [main] INFO ExcelUtils - Test Input File - D:/Selenium/TVOWebTestInputs.xls
+2018-02-04 21:31:29,976 [main] INFO ExcelUtils - Test Input Excel is Opened
+2018-02-04 21:31:33,636 [main] INFO WebUtils - Browser Opened
+2018-02-04 21:31:33,643 [main] INFO WebUtils - Implict wait for 20 seconds to open the browser loadded with all the components
+2018-02-04 21:31:44,286 [main] INFO WebUtils - Constants.URL Opened
+2018-02-04 21:31:44,287 [main] INFO NavigatePageLinkTestCases - Test4 - Verify all the links in HP is working or broken
+2018-02-04 21:31:46,039 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 21:31:46,179 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 21:31:46,344 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 21:31:46,439 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 21:31:46,565 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 21:31:46,735 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 21:31:46,857 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 21:31:47,088 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 21:31:47,211 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 21:31:47,407 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 21:31:47,607 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 21:31:47,771 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 21:31:47,862 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 21:31:47,945 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 21:31:48,050 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 21:31:48,142 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 21:31:48,169 [main] INFO WebUtils - Link or URL is broken
+2018-02-04 21:31:48,170 [main] INFO WebUtils - Link is broken
+2018-02-04 21:31:48,261 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 21:31:48,348 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 21:31:48,430 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 21:31:48,513 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 21:31:48,601 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 21:31:48,602 [main] INFO WebUtils - Link or URL is broken
+2018-02-04 21:31:48,603 [main] INFO WebUtils - Link is broken
+2018-02-04 21:31:49,437 [main] INFO WebUtils - Browser Closed
+2018-02-04 21:31:53,628 [main] INFO WebUtils - Browser Opened
+2018-02-04 21:31:53,636 [main] INFO WebUtils - Implict wait for 20 seconds to open the browser loadded with all the components
+2018-02-04 21:32:03,967 [main] INFO WebUtils - Constants.URL Opened
+2018-02-04 21:32:03,968 [main] INFO NavigatePageLinkTestCases - Test5 - Verify all the links in the registration page is working or broken
+2018-02-04 21:32:05,436 [main] INFO WebUtils - Navigated to Registration Page and Maximized
+2018-02-04 21:32:06,065 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 21:32:06,174 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 21:32:06,260 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 21:32:06,368 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 21:32:06,476 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 21:32:06,572 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 21:32:06,653 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 21:32:06,741 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 21:32:06,838 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 21:32:07,066 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 21:32:07,147 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 21:32:07,231 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 21:32:07,232 [main] INFO WebUtils - Link or URL is broken
+2018-02-04 21:32:07,236 [main] INFO WebUtils - Link is broken
+2018-02-04 21:32:07,301 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 21:32:07,462 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 21:32:07,653 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 21:32:07,745 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 21:32:07,746 [main] INFO WebUtils - Link or URL is broken
+2018-02-04 21:32:07,747 [main] INFO WebUtils - Link is broken
+2018-02-04 21:32:08,531 [main] INFO WebUtils - Browser Closed
+2018-02-04 21:32:12,205 [main] INFO WebUtils - Browser Opened
+2018-02-04 21:32:12,213 [main] INFO WebUtils - Implict wait for 20 seconds to open the browser loadded with all the components
+2018-02-04 21:32:22,020 [main] INFO WebUtils - Constants.URL Opened
+2018-02-04 21:32:22,021 [main] INFO NavigatePageLinkTestCases - Test1 - Page Navigation from HP to RegPage to HP
+2018-02-04 21:32:22,411 [main] INFO WebUtils - Check Registration Page MPower Logo is loaded or not
+2018-02-04 21:32:22,540 [main] INFO WebUtils - TVO mPower logo is loaded in Registration Page
+2018-02-04 21:32:22,541 [main] INFO WebUtils - Check Registration Page Text are loaded or not
+2018-02-04 21:32:22,632 [main] INFO WebUtils - All the Text in the Registration Page loaded successfully
+2018-02-04 21:32:22,633 [main] INFO WebUtils - Check Registration Page elements/fields are loaded or not
+2018-02-04 21:32:23,189 [main] INFO WebUtils - All the elements/field in the Registration Page loaded successfully
+2018-02-04 21:32:23,189 [main] INFO WebUtils - Registration page loaded successfully
+2018-02-04 21:32:23,190 [main] INFO WebUtils - Successfully Navigated to Registration Page
+2018-02-04 21:32:24,531 [main] INFO WebUtils - Check Home page logo is loaded or not
+2018-02-04 21:32:24,611 [main] INFO WebUtils - TVO mPower logo is loaded in Home Page
+2018-02-04 21:32:24,612 [main] INFO WebUtils - Check All the Text of the Home Page loaded or not
+2018-02-04 21:32:24,926 [main] INFO WebUtils - All the Text in the Home Page Loaded Successfully
+2018-02-04 21:32:24,927 [main] INFO WebUtils - Check all the elements/fields of the Home Page loaged or not
+2018-02-04 21:32:25,460 [main] INFO WebUtils - All the elements/field of the Registration Page is loaded successfully
+2018-02-04 21:32:25,461 [main] INFO WebUtils - Home Page Loaded Successfully
+2018-02-04 21:32:26,220 [main] INFO WebUtils - Browser Closed
+2018-02-04 21:32:30,019 [main] INFO WebUtils - Browser Opened
+2018-02-04 21:32:30,030 [main] INFO WebUtils - Implict wait for 20 seconds to open the browser loadded with all the components
+2018-02-04 21:32:37,213 [main] INFO WebUtils - Constants.URL Opened
+2018-02-04 21:32:37,214 [main] INFO NavigatePageLinkTestCases - Test2 - Page Navigation from HP to news window and cancel to HP
+2018-02-04 21:32:38,019 [main] INFO WebUtils - Page navigation from Home page to login news window and the home page is successfu;
+2018-02-04 21:32:38,717 [main] INFO WebUtils - Browser Closed
+2018-02-04 21:32:41,676 [main] INFO WebUtils - Browser Opened
+2018-02-04 21:32:41,681 [main] INFO WebUtils - Implict wait for 20 seconds to open the browser loadded with all the components
+2018-02-04 21:32:50,114 [main] INFO WebUtils - Constants.URL Opened
+2018-02-04 21:32:50,115 [main] INFO NavigatePageLinkTestCases - Test3 - Page Navigation from HP to Play page
+2018-02-04 21:32:50,301 [main] INFO WebUtils - Page navigation from Home Page to kids play page is successful
+2018-02-04 21:32:51,017 [main] INFO WebUtils - Browser Closed
+2018-02-04 21:32:51,022 [main] INFO CompatibilityTestCases - Test1 - To test page loaded using chrome is successful or not
+2018-02-04 21:32:51,023 [main] INFO WebUtils - Open Browser
+2018-02-04 21:32:54,106 [main] INFO WebUtils - Browser Opened
+2018-02-04 21:32:54,112 [main] INFO WebUtils - Implict wait for 20 seconds to open the browser loadded with all the components
+2018-02-04 21:33:05,869 [main] INFO WebUtils - Constants.URL Opened
+2018-02-04 21:33:05,871 [main] INFO WebUtils - Check page loaded is proper or not
+2018-02-04 21:33:07,000 [main] INFO WebUtils - Check Home Page logo is present or not 
+2018-02-04 21:33:07,090 [main] INFO WebUtils - TVO mPower logo is loaded in Home Page
+2018-02-04 21:33:07,091 [main] INFO WebUtils - Check all the text in the Home page is present or not
+2018-02-04 21:33:07,422 [main] INFO WebUtils - All the Text in the Home Page Loaded Successfully
+2018-02-04 21:33:07,423 [main] INFO WebUtils - Check all the elements/fields or present or not
+2018-02-04 21:33:08,026 [main] INFO WebUtils - All the elements/field of the Registration Page is loaded successfully
+2018-02-04 21:33:08,027 [main] INFO WebUtils - Page Loaded Successfully
+2018-02-04 21:33:08,027 [main] INFO WebUtils - Close the browser
+2018-02-04 21:33:08,875 [main] INFO WebUtils - Browser Closed
+2018-02-04 21:33:08,879 [main] INFO CompatibilityTestCases - Test2 - To test page loaded using firefox is successful or not
+2018-02-04 21:33:08,880 [main] INFO WebUtils - Open Browser
+2018-02-04 21:33:31,959 [main] INFO CompatibilityTestCases - Test3 - To test page loaded using Internet Explorer is successful or not
+2018-02-04 21:33:31,960 [main] INFO WebUtils - Open Browser
+2018-02-04 21:33:57,606 [main] INFO WebUtils - Browser Opened
+2018-02-04 21:33:57,622 [main] INFO WebUtils - Implict wait for 20 seconds to open the browser loadded with all the components
+2018-02-04 21:34:03,912 [main] INFO WebUtils - Constants.URL Opened
+2018-02-04 21:34:03,913 [main] INFO WebUtils - Check page loaded is proper or not
+2018-02-04 21:34:03,959 [main] INFO WebUtils - Check Home Page logo is present or not 
+2018-02-04 21:34:12,514 [main] INFO WebUtils - TVO mPower logo is loaded in Home Page
+2018-02-04 21:34:12,515 [main] INFO WebUtils - Check all the text in the Home page is present or not
+2018-02-04 21:34:14,438 [main] INFO WebUtils - All the Text in the Home Page Loaded Successfully
+2018-02-04 21:34:14,438 [main] INFO WebUtils - Check all the elements/fields or present or not
+2018-02-04 21:34:18,136 [main] INFO WebUtils - All the elements/field of the Registration Page is loaded successfully
+2018-02-04 21:34:18,136 [main] INFO WebUtils - Page Loaded Successfully
+2018-02-04 21:34:18,137 [main] INFO WebUtils - Close the browser
+2018-02-04 21:34:18,846 [main] INFO WebUtils - Browser Closed
+2018-02-04 21:40:39,225 [main] INFO ExcelUtils - Test Input Excel is Opened
+2018-02-04 21:40:44,676 [main] INFO WebUtils - Browser Opened
+2018-02-04 21:40:44,690 [main] INFO WebUtils - Implict wait for 20 seconds to open the browser loadded with all the components
+2018-02-04 21:40:54,592 [main] INFO WebUtils - Constants.URL Opened
+2018-02-04 21:40:54,593 [main] INFO FunctionalityTestCases - Test2 - Home Page Login Validation with uname and password is empty or null
+2018-02-04 21:40:54,713 [main] INFO WebUtils - Check and Verify Login Credintials
+2018-02-04 21:40:54,714 [main] INFO WebUtils - Set uname
+2018-02-04 21:40:54,855 [main] INFO WebUtils - Given Id of the element is loaded
+2018-02-04 21:40:54,856 [main] INFO WebUtils - Clear the webelement
+2018-02-04 21:40:54,977 [main] INFO WebUtils - Set the webelement with the given input value
+2018-02-04 21:40:55,464 [main] INFO WebUtils - Set password
+2018-02-04 21:40:55,493 [main] INFO WebUtils - Given Id of the element is loaded
+2018-02-04 21:40:55,494 [main] INFO WebUtils - Clear the webelement
+2018-02-04 21:40:55,584 [main] INFO WebUtils - Set the webelement with the given input value
+2018-02-04 21:40:55,693 [main] INFO WebUtils - Click submit button
+2018-02-04 21:40:55,733 [main] INFO WebUtils - Given Id of the element is loaded
+2018-02-04 21:40:55,734 [main] INFO WebUtils - Click the submitbutton
+2018-02-04 21:40:56,021 [main] INFO WebUtils - Popup Alert is coorect
+2018-02-04 21:40:56,780 [main] INFO WebUtils - Browser Closed
+2018-02-04 21:40:56,782 [main] INFO Log4jTestWatcher - testHPLoginValidation1(tvoWebTestClasses.FunctionalityTestCases)
+2018-02-04 21:40:58,863 [main] INFO WebUtils - Browser Opened
+2018-02-04 21:40:58,869 [main] INFO WebUtils - Implict wait for 20 seconds to open the browser loadded with all the components
+2018-02-04 21:41:09,540 [main] INFO WebUtils - Constants.URL Opened
+2018-02-04 21:41:09,541 [main] INFO FunctionalityTestCases - Test1 - Home Page Validation
+2018-02-04 21:41:10,680 [main] INFO WebUtils - Check Home page logo is loaded or not
+2018-02-04 21:41:10,762 [main] INFO WebUtils - TVO mPower logo is loaded in Home Page
+2018-02-04 21:41:10,763 [main] INFO WebUtils - Check All the Text of the Home Page loaded or not
+2018-02-04 21:41:11,205 [main] INFO WebUtils - All the Text in the Home Page Loaded Successfully
+2018-02-04 21:41:11,206 [main] INFO WebUtils - Check all the elements/fields of the Home Page loaged or not
+2018-02-04 21:41:11,769 [main] INFO WebUtils - All the elements/field of the Registration Page is loaded successfully
+2018-02-04 21:41:11,770 [main] INFO WebUtils - Home Page Loaded Successfully
+2018-02-04 21:41:12,493 [main] INFO WebUtils - Browser Closed
+2018-02-04 21:41:12,494 [main] INFO Log4jTestWatcher - testHomePageValidation1(tvoWebTestClasses.FunctionalityTestCases)
+2018-02-04 21:41:12,495 [main] INFO WebUtils - Browser Closed
+2018-02-04 21:41:12,495 [main] INFO ExcelUtils - Test Input File - D:/Selenium/TVOWebTestInputs.xls
+2018-02-04 21:41:12,602 [main] INFO ExcelUtils - Test Input Excel is Opened
+2018-02-04 21:41:14,802 [main] INFO WebUtils - Browser Opened
+2018-02-04 21:41:14,808 [main] INFO WebUtils - Implict wait for 20 seconds to open the browser loadded with all the components
+2018-02-04 21:41:24,148 [main] INFO WebUtils - Constants.URL Opened
+2018-02-04 21:41:24,149 [main] INFO NavigatePageLinkTestCases - Test4 - Verify all the links in HP is working or broken
+2018-02-04 21:41:26,294 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 21:41:26,392 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 21:41:26,549 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 21:41:26,809 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 21:41:26,917 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 21:41:27,002 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 21:41:27,096 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 21:41:27,203 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 21:41:27,331 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 21:41:27,452 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 21:41:27,533 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 21:41:27,640 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 21:41:27,746 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 21:41:27,836 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 21:41:27,927 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 21:41:28,014 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 21:41:28,015 [main] INFO WebUtils - Link or URL is broken
+2018-02-04 21:41:28,016 [main] INFO WebUtils - Link is broken
+2018-02-04 21:41:28,111 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 21:41:28,206 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 21:41:28,300 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 21:41:28,391 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 21:41:28,484 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 21:41:28,485 [main] INFO WebUtils - Link or URL is broken
+2018-02-04 21:41:28,486 [main] INFO WebUtils - Link is broken
+2018-02-04 21:41:29,199 [main] INFO WebUtils - Browser Closed
+2018-02-04 21:41:29,200 [main] INFO Log4jTestWatcher - LinkNavigation1(tvoWebTestClasses.NavigatePageLinkTestCases)
+2018-02-04 21:41:31,392 [main] INFO WebUtils - Browser Opened
+2018-02-04 21:41:31,398 [main] INFO WebUtils - Implict wait for 20 seconds to open the browser loadded with all the components
+2018-02-04 21:41:40,055 [main] INFO WebUtils - Constants.URL Opened
+2018-02-04 21:41:40,056 [main] INFO NavigatePageLinkTestCases - Test5 - Verify all the links in the registration page is working or broken
+2018-02-04 21:41:41,535 [main] INFO WebUtils - Navigated to Registration Page and Maximized
+2018-02-04 21:41:42,207 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 21:41:42,424 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 21:41:42,551 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 21:41:42,653 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 21:41:42,756 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 21:41:42,851 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 21:41:42,942 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 21:41:43,023 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 21:41:43,117 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 21:41:43,202 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 21:41:43,329 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 21:41:43,431 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 21:41:43,432 [main] INFO WebUtils - Link or URL is broken
+2018-02-04 21:41:43,432 [main] INFO WebUtils - Link is broken
+2018-02-04 21:41:43,495 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 21:41:43,599 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 21:41:43,676 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 21:41:43,761 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 21:41:43,761 [main] INFO WebUtils - Link or URL is broken
+2018-02-04 21:41:43,762 [main] INFO WebUtils - Link is broken
+2018-02-04 21:41:44,501 [main] INFO WebUtils - Browser Closed
+2018-02-04 21:41:44,502 [main] INFO Log4jTestWatcher - LinkNavigation2(tvoWebTestClasses.NavigatePageLinkTestCases)
+2018-02-04 21:41:46,722 [main] INFO WebUtils - Browser Opened
+2018-02-04 21:41:46,727 [main] INFO WebUtils - Implict wait for 20 seconds to open the browser loadded with all the components
+2018-02-04 21:41:53,536 [main] INFO WebUtils - Constants.URL Opened
+2018-02-04 21:41:53,537 [main] INFO NavigatePageLinkTestCases - Test1 - Page Navigation from HP to RegPage to HP
+2018-02-04 21:41:53,852 [main] INFO WebUtils - Check Registration Page MPower Logo is loaded or not
+2018-02-04 21:41:53,953 [main] INFO WebUtils - TVO mPower logo is loaded in Registration Page
+2018-02-04 21:41:53,953 [main] INFO WebUtils - Check Registration Page Text are loaded or not
+2018-02-04 21:41:54,068 [main] INFO WebUtils - All the Text in the Registration Page loaded successfully
+2018-02-04 21:41:54,069 [main] INFO WebUtils - Check Registration Page elements/fields are loaded or not
+2018-02-04 21:41:54,634 [main] INFO WebUtils - All the elements/field in the Registration Page loaded successfully
+2018-02-04 21:41:54,635 [main] INFO WebUtils - Registration page loaded successfully
+2018-02-04 21:41:54,635 [main] INFO WebUtils - Successfully Navigated to Registration Page
+2018-02-04 21:41:56,105 [main] INFO WebUtils - Check Home page logo is loaded or not
+2018-02-04 21:41:56,193 [main] INFO WebUtils - TVO mPower logo is loaded in Home Page
+2018-02-04 21:41:56,193 [main] INFO WebUtils - Check All the Text of the Home Page loaded or not
+2018-02-04 21:41:56,486 [main] INFO WebUtils - All the Text in the Home Page Loaded Successfully
+2018-02-04 21:41:56,488 [main] INFO WebUtils - Check all the elements/fields of the Home Page loaged or not
+2018-02-04 21:41:56,996 [main] INFO WebUtils - All the elements/field of the Registration Page is loaded successfully
+2018-02-04 21:41:56,996 [main] INFO WebUtils - Home Page Loaded Successfully
+2018-02-04 21:41:57,731 [main] INFO WebUtils - Browser Closed
+2018-02-04 21:41:57,732 [main] INFO Log4jTestWatcher - PageNavigation1(tvoWebTestClasses.NavigatePageLinkTestCases)
+2018-02-04 21:42:00,162 [main] INFO WebUtils - Browser Opened
+2018-02-04 21:42:00,167 [main] INFO WebUtils - Implict wait for 20 seconds to open the browser loadded with all the components
+2018-02-04 21:42:07,627 [main] INFO WebUtils - Constants.URL Opened
+2018-02-04 21:42:07,628 [main] INFO NavigatePageLinkTestCases - Test2 - Page Navigation from HP to news window and cancel to HP
+2018-02-04 21:42:09,786 [main] INFO WebUtils - Page navigation from Home page to login news window and the home page is successfu;
+2018-02-04 21:42:10,485 [main] INFO WebUtils - Browser Closed
+2018-02-04 21:42:10,485 [main] INFO Log4jTestWatcher - PageNavigation2(tvoWebTestClasses.NavigatePageLinkTestCases)
+2018-02-04 21:42:12,685 [main] INFO WebUtils - Browser Opened
+2018-02-04 21:42:12,689 [main] INFO WebUtils - Implict wait for 20 seconds to open the browser loadded with all the components
+2018-02-04 21:42:23,675 [main] INFO WebUtils - Constants.URL Opened
+2018-02-04 21:42:23,677 [main] INFO NavigatePageLinkTestCases - Test3 - Page Navigation from HP to Play page
+2018-02-04 21:42:23,907 [main] INFO WebUtils - Page navigation from Home Page to kids play page is successful
+2018-02-04 21:42:24,623 [main] INFO WebUtils - Browser Closed
+2018-02-04 21:42:24,624 [main] INFO Log4jTestWatcher - PageNavigation3(tvoWebTestClasses.NavigatePageLinkTestCases)
+2018-02-04 21:42:24,629 [main] INFO CompatibilityTestCases - Test1 - To test page loaded using chrome is successful or not
+2018-02-04 21:42:24,630 [main] INFO WebUtils - Open Browser
+2018-02-04 21:42:26,878 [main] INFO WebUtils - Browser Opened
+2018-02-04 21:42:26,883 [main] INFO WebUtils - Implict wait for 20 seconds to open the browser loadded with all the components
+2018-02-04 21:42:36,471 [main] INFO WebUtils - Constants.URL Opened
+2018-02-04 21:42:36,471 [main] INFO WebUtils - Check page loaded is proper or not
+2018-02-04 21:42:37,608 [main] INFO WebUtils - Check Home Page logo is present or not 
+2018-02-04 21:42:37,731 [main] INFO WebUtils - TVO mPower logo is loaded in Home Page
+2018-02-04 21:42:37,733 [main] INFO WebUtils - Check all the text in the Home page is present or not
+2018-02-04 21:42:38,179 [main] INFO WebUtils - All the Text in the Home Page Loaded Successfully
+2018-02-04 21:42:38,180 [main] INFO WebUtils - Check all the elements/fields or present or not
+2018-02-04 21:42:38,859 [main] INFO WebUtils - All the elements/field of the Registration Page is loaded successfully
+2018-02-04 21:42:38,860 [main] INFO WebUtils - Page Loaded Successfully
+2018-02-04 21:42:38,860 [main] INFO WebUtils - Close the browser
+2018-02-04 21:42:39,588 [main] INFO WebUtils - Browser Closed
+2018-02-04 21:42:39,589 [main] INFO Log4jTestWatcher - CompatibilityTest1(tvoWebTestClasses.CompatibilityTestCases)
+2018-02-04 21:42:39,592 [main] INFO CompatibilityTestCases - Test2 - To test page loaded using firefox is successful or not
+2018-02-04 21:42:39,592 [main] INFO WebUtils - Open Browser
+2018-02-04 21:42:57,504 [main] INFO WebUtils - Browser Opened
+2018-02-04 21:42:57,563 [main] INFO WebUtils - Implict wait for 20 seconds to open the browser loadded with all the components
+2018-02-04 21:43:02,431 [main] INFO WebUtils - Constants.URL Opened
+2018-02-04 21:43:02,431 [main] INFO WebUtils - Check page loaded is proper or not
+2018-02-04 21:43:05,949 [main] INFO WebUtils - Check Home Page logo is present or not 
+2018-02-04 21:43:06,180 [main] INFO WebUtils - TVO mPower logo is loaded in Home Page
+2018-02-04 21:43:06,181 [main] INFO WebUtils - Check all the text in the Home page is present or not
+2018-02-04 21:43:06,476 [main] INFO WebUtils - All the Text in the Home Page Loaded Successfully
+2018-02-04 21:43:06,476 [main] INFO WebUtils - Check all the elements/fields or present or not
+2018-02-04 21:43:07,034 [main] INFO WebUtils - All the elements/field of the Registration Page is loaded successfully
+2018-02-04 21:43:07,034 [main] INFO WebUtils - Page Loaded Successfully
+2018-02-04 21:43:07,035 [main] INFO WebUtils - Close the browser
+2018-02-04 21:43:08,109 [main] INFO WebUtils - Browser Closed
+2018-02-04 21:43:08,109 [main] INFO Log4jTestWatcher - CompatibilityTest2(tvoWebTestClasses.CompatibilityTestCases)
+2018-02-04 21:43:08,113 [main] INFO CompatibilityTestCases - Test3 - To test page loaded using Internet Explorer is successful or not
+2018-02-04 21:43:08,113 [main] INFO WebUtils - Open Browser
+2018-02-04 21:43:13,498 [main] INFO WebUtils - Browser Opened
+2018-02-04 21:43:13,513 [main] INFO WebUtils - Implict wait for 20 seconds to open the browser loadded with all the components
+2018-02-04 21:43:17,947 [main] INFO WebUtils - Constants.URL Opened
+2018-02-04 21:43:17,948 [main] INFO WebUtils - Check page loaded is proper or not
+2018-02-04 21:43:17,962 [main] INFO WebUtils - Check Home Page logo is present or not 
+2018-02-04 21:43:18,321 [main] INFO WebUtils - TVO mPower logo is loaded in Home Page
+2018-02-04 21:43:18,322 [main] INFO WebUtils - Check all the text in the Home page is present or not
+2018-02-04 21:43:19,796 [main] INFO WebUtils - All the Text in the Home Page Loaded Successfully
+2018-02-04 21:43:19,798 [main] INFO WebUtils - Check all the elements/fields or present or not
+2018-02-04 21:43:23,791 [main] INFO WebUtils - All the elements/field of the Registration Page is loaded successfully
+2018-02-04 21:43:23,791 [main] INFO WebUtils - Page Loaded Successfully
+2018-02-04 21:43:23,792 [main] INFO WebUtils - Close the browser
+2018-02-04 21:43:24,376 [main] INFO WebUtils - Browser Closed
+2018-02-04 21:43:24,377 [main] INFO Log4jTestWatcher - CompatibilityTest3(tvoWebTestClasses.CompatibilityTestCases)
+2018-02-04 21:47:00,138 [main] INFO ExcelUtils - Test Input Excel is Opened
+2018-02-04 21:47:06,007 [main] INFO WebUtils - Browser Opened
+2018-02-04 21:47:06,025 [main] INFO WebUtils - Implict wait for 20 seconds to open the browser loadded with all the components
+2018-02-04 21:47:15,662 [main] INFO WebUtils - Constants.URL Opened
+2018-02-04 21:47:15,663 [main] INFO FunctionalityTestCases - Test2 - Home Page Login Validation with uname and password is empty or null
+2018-02-04 21:47:15,786 [main] INFO WebUtils - Check and Verify Login Credintials
+2018-02-04 21:47:15,788 [main] INFO WebUtils - Set uname
+2018-02-04 21:47:15,856 [main] INFO WebUtils - Given Id of the element is loaded
+2018-02-04 21:47:15,858 [main] INFO WebUtils - Clear the webelement
+2018-02-04 21:47:15,963 [main] INFO WebUtils - Set the webelement with the given input value
+2018-02-04 21:47:16,216 [main] INFO WebUtils - Set password
+2018-02-04 21:47:16,252 [main] INFO WebUtils - Given Id of the element is loaded
+2018-02-04 21:47:16,253 [main] INFO WebUtils - Clear the webelement
+2018-02-04 21:47:16,333 [main] INFO WebUtils - Set the webelement with the given input value
+2018-02-04 21:47:16,485 [main] INFO WebUtils - Click submit button
+2018-02-04 21:47:16,531 [main] INFO WebUtils - Given Id of the element is loaded
+2018-02-04 21:47:16,532 [main] INFO WebUtils - Click the submitbutton
+2018-02-04 21:47:16,797 [main] INFO WebUtils - Popup Alert is coorect
+2018-02-04 21:47:17,511 [main] INFO WebUtils - Browser Closed
+2018-02-04 21:47:17,514 [main] INFO Log4jTestWatcher - testHPLoginValidation1(tvoWebTestClasses.FunctionalityTestCases)TestCase Passed
+2018-02-04 21:47:20,460 [main] INFO WebUtils - Browser Opened
+2018-02-04 21:47:20,466 [main] INFO WebUtils - Implict wait for 20 seconds to open the browser loadded with all the components
+2018-02-04 21:47:28,997 [main] INFO WebUtils - Constants.URL Opened
+2018-02-04 21:47:28,998 [main] INFO FunctionalityTestCases - Test1 - Home Page Validation
+2018-02-04 21:47:30,140 [main] INFO WebUtils - Check Home page logo is loaded or not
+2018-02-04 21:47:30,239 [main] INFO WebUtils - TVO mPower logo is loaded in Home Page
+2018-02-04 21:47:30,240 [main] INFO WebUtils - Check All the Text of the Home Page loaded or not
+2018-02-04 21:47:30,784 [main] INFO WebUtils - All the Text in the Home Page Loaded Successfully
+2018-02-04 21:47:30,784 [main] INFO WebUtils - Check all the elements/fields of the Home Page loaged or not
+2018-02-04 21:47:31,296 [main] INFO WebUtils - All the elements/field of the Registration Page is loaded successfully
+2018-02-04 21:47:31,297 [main] INFO WebUtils - Home Page Loaded Successfully
+2018-02-04 21:47:31,967 [main] INFO WebUtils - Browser Closed
+2018-02-04 21:47:31,968 [main] INFO Log4jTestWatcher - testHomePageValidation1(tvoWebTestClasses.FunctionalityTestCases)TestCase Passed
+2018-02-04 21:47:31,968 [main] INFO WebUtils - Browser Closed
+2018-02-04 21:48:42,180 [main] INFO ExcelUtils - Test Input Excel is Opened
+2018-02-04 21:48:47,394 [main] INFO WebUtils - Browser Opened
+2018-02-04 21:48:47,415 [main] INFO WebUtils - Implict wait for 20 seconds to open the browser loadded with all the components
+2018-02-04 21:48:55,865 [main] INFO WebUtils - Constants.URL Opened
+2018-02-04 21:48:55,879 [main] INFO FunctionalityTestCases - Test2 - Home Page Login Validation with uname and password is empty or null
+2018-02-04 21:48:56,033 [main] INFO WebUtils - Check and Verify Login Credintials
+2018-02-04 21:48:56,034 [main] INFO WebUtils - Set uname
+2018-02-04 21:48:56,101 [main] INFO WebUtils - Given Id of the element is loaded
+2018-02-04 21:48:56,102 [main] INFO WebUtils - Clear the webelement
+2018-02-04 21:48:56,224 [main] INFO WebUtils - Set the webelement with the given input value
+2018-02-04 21:48:56,353 [main] INFO WebUtils - Set password
+2018-02-04 21:48:56,416 [main] INFO WebUtils - Given Id of the element is loaded
+2018-02-04 21:48:56,417 [main] INFO WebUtils - Clear the webelement
+2018-02-04 21:48:56,586 [main] INFO WebUtils - Set the webelement with the given input value
+2018-02-04 21:48:56,702 [main] INFO WebUtils - Click submit button
+2018-02-04 21:48:56,736 [main] INFO WebUtils - Given Id of the element is loaded
+2018-02-04 21:48:56,737 [main] INFO WebUtils - Click the submitbutton
+2018-02-04 21:48:57,006 [main] INFO WebUtils - Popup Alert is coorect
+2018-02-04 21:48:57,724 [main] INFO WebUtils - Browser Closed
+2018-02-04 21:48:57,726 [main] INFO Log4jTestWatcher - tvoWebTestClasses.FunctionalityTestCases
+2018-02-04 21:48:57,727 [main] INFO Log4jTestWatcher - testHPLoginValidation1
+2018-02-04 21:48:57,728 [main] INFO Log4jTestWatcher - testHPLoginValidation1(tvoWebTestClasses.FunctionalityTestCases)
+2018-02-04 21:48:57,728 [main] INFO Log4jTestWatcher - testHPLoginValidation1(tvoWebTestClasses.FunctionalityTestCases) - Passed
+2018-02-04 21:48:59,923 [main] INFO WebUtils - Browser Opened
+2018-02-04 21:48:59,928 [main] INFO WebUtils - Implict wait for 20 seconds to open the browser loadded with all the components
+2018-02-04 21:49:09,723 [main] INFO WebUtils - Constants.URL Opened
+2018-02-04 21:49:09,725 [main] INFO FunctionalityTestCases - Test1 - Home Page Validation
+2018-02-04 21:49:10,873 [main] INFO WebUtils - Check Home page logo is loaded or not
+2018-02-04 21:49:10,959 [main] INFO WebUtils - TVO mPower logo is loaded in Home Page
+2018-02-04 21:49:10,960 [main] INFO WebUtils - Check All the Text of the Home Page loaded or not
+2018-02-04 21:49:11,409 [main] INFO WebUtils - All the Text in the Home Page Loaded Successfully
+2018-02-04 21:49:11,410 [main] INFO WebUtils - Check all the elements/fields of the Home Page loaged or not
+2018-02-04 21:49:11,918 [main] INFO WebUtils - All the elements/field of the Registration Page is loaded successfully
+2018-02-04 21:49:11,919 [main] INFO WebUtils - Home Page Loaded Successfully
+2018-02-04 21:49:12,600 [main] INFO WebUtils - Browser Closed
+2018-02-04 21:49:12,601 [main] INFO Log4jTestWatcher - tvoWebTestClasses.FunctionalityTestCases
+2018-02-04 21:49:12,601 [main] INFO Log4jTestWatcher - testHomePageValidation1
+2018-02-04 21:49:12,601 [main] INFO Log4jTestWatcher - testHomePageValidation1(tvoWebTestClasses.FunctionalityTestCases)
+2018-02-04 21:49:12,602 [main] INFO Log4jTestWatcher - testHomePageValidation1(tvoWebTestClasses.FunctionalityTestCases) - Passed
+2018-02-04 21:49:12,602 [main] INFO WebUtils - Browser Closed
+2018-02-04 21:50:08,731 [main] INFO ExcelUtils - Test Input Excel is Opened
+2018-02-04 21:50:11,739 [main] INFO WebUtils - Browser Opened
+2018-02-04 21:50:11,752 [main] INFO WebUtils - Implict wait for 20 seconds to open the browser loadded with all the components
+2018-02-04 21:50:24,634 [main] INFO WebUtils - Constants.URL Opened
+2018-02-04 21:50:24,649 [main] INFO FunctionalityTestCases - Test2 - Home Page Login Validation with uname and password is empty or null
+2018-02-04 21:50:24,759 [main] INFO WebUtils - Check and Verify Login Credintials
+2018-02-04 21:50:24,761 [main] INFO WebUtils - Set uname
+2018-02-04 21:50:24,821 [main] INFO WebUtils - Given Id of the element is loaded
+2018-02-04 21:50:24,822 [main] INFO WebUtils - Clear the webelement
+2018-02-04 21:50:24,918 [main] INFO WebUtils - Set the webelement with the given input value
+2018-02-04 21:50:25,160 [main] INFO WebUtils - Set password
+2018-02-04 21:50:25,201 [main] INFO WebUtils - Given Id of the element is loaded
+2018-02-04 21:50:25,202 [main] INFO WebUtils - Clear the webelement
+2018-02-04 21:50:25,281 [main] INFO WebUtils - Set the webelement with the given input value
+2018-02-04 21:50:25,393 [main] INFO WebUtils - Click submit button
+2018-02-04 21:50:25,445 [main] INFO WebUtils - Given Id of the element is loaded
+2018-02-04 21:50:25,447 [main] INFO WebUtils - Click the submitbutton
+2018-02-04 21:50:25,712 [main] INFO WebUtils - Popup Alert is coorect
+2018-02-04 21:50:26,438 [main] INFO WebUtils - Browser Closed
+2018-02-04 21:50:26,440 [main] INFO Log4jTestWatcher - testHPLoginValidation1(tvoWebTestClasses.FunctionalityTestCases) - Passed
+2018-02-04 21:50:28,657 [main] INFO WebUtils - Browser Opened
+2018-02-04 21:50:28,663 [main] INFO WebUtils - Implict wait for 20 seconds to open the browser loadded with all the components
+2018-02-04 21:50:37,763 [main] INFO WebUtils - Constants.URL Opened
+2018-02-04 21:50:37,765 [main] INFO FunctionalityTestCases - Test1 - Home Page Validation
+2018-02-04 21:50:38,904 [main] INFO WebUtils - Check Home page logo is loaded or not
+2018-02-04 21:50:38,991 [main] INFO WebUtils - TVO mPower logo is loaded in Home Page
+2018-02-04 21:50:38,992 [main] INFO WebUtils - Check All the Text of the Home Page loaded or not
+2018-02-04 21:50:39,486 [main] INFO WebUtils - All the Text in the Home Page Loaded Successfully
+2018-02-04 21:50:39,488 [main] INFO WebUtils - Check all the elements/fields of the Home Page loaged or not
+2018-02-04 21:50:40,012 [main] INFO WebUtils - All the elements/field of the Registration Page is loaded successfully
+2018-02-04 21:50:40,013 [main] INFO WebUtils - Home Page Loaded Successfully
+2018-02-04 21:50:40,729 [main] INFO WebUtils - Browser Closed
+2018-02-04 21:50:40,730 [main] INFO Log4jTestWatcher - testHomePageValidation1(tvoWebTestClasses.FunctionalityTestCases) - Passed
+2018-02-04 21:50:40,730 [main] INFO WebUtils - Browser Closed
+2018-02-04 21:52:34,560 [main] INFO ExcelUtils - Test Input Excel is Opened
+2018-02-04 21:52:37,934 [main] INFO WebUtils - Browser Opened
+2018-02-04 21:52:37,956 [main] INFO WebUtils - Implict wait for 20 seconds to open the browser loadded with all the components
+2018-02-04 21:52:46,671 [main] INFO WebUtils - Constants.URL Opened
+2018-02-04 21:52:46,684 [main] INFO FunctionalityTestCases - Test2 - Home Page Login Validation with uname and password is empty or null
+2018-02-04 21:52:46,820 [main] INFO WebUtils - Check and Verify Login Credintials
+2018-02-04 21:52:46,821 [main] INFO WebUtils - Set uname
+2018-02-04 21:52:46,879 [main] INFO WebUtils - Given Id of the element is loaded
+2018-02-04 21:52:46,881 [main] INFO WebUtils - Clear the webelement
+2018-02-04 21:52:46,981 [main] INFO WebUtils - Set the webelement with the given input value
+2018-02-04 21:52:47,258 [main] INFO WebUtils - Set password
+2018-02-04 21:52:47,300 [main] INFO WebUtils - Given Id of the element is loaded
+2018-02-04 21:52:47,301 [main] INFO WebUtils - Clear the webelement
+2018-02-04 21:52:47,381 [main] INFO WebUtils - Set the webelement with the given input value
+2018-02-04 21:52:47,499 [main] INFO WebUtils - Click submit button
+2018-02-04 21:52:47,556 [main] INFO WebUtils - Given Id of the element is loaded
+2018-02-04 21:52:47,559 [main] INFO WebUtils - Click the submitbutton
+2018-02-04 21:52:47,833 [main] INFO WebUtils - Popup Alert is coorect
+2018-02-04 21:52:48,563 [main] INFO WebUtils - Browser Closed
+2018-02-04 21:52:48,565 [main] INFO Log4jTestWatcher - testHPLoginValidation1(tvoWebTestClasses.FunctionalityTestCases) - Passed
+2018-02-04 21:52:50,760 [main] INFO WebUtils - Browser Opened
+2018-02-04 21:52:50,766 [main] INFO WebUtils - Implict wait for 20 seconds to open the browser loadded with all the components
+2018-02-04 21:52:59,147 [main] INFO WebUtils - Constants.URL Opened
+2018-02-04 21:52:59,148 [main] INFO FunctionalityTestCases - Test3 - Home Page Login Validation with invalid uname and valid password
+2018-02-04 21:52:59,149 [main] INFO WebUtils - Check and Verify Login Credintials
+2018-02-04 21:52:59,150 [main] INFO WebUtils - Set uname
+2018-02-04 21:52:59,180 [main] INFO WebUtils - Given Id of the element is loaded
+2018-02-04 21:52:59,180 [main] INFO WebUtils - Clear the webelement
+2018-02-04 21:52:59,288 [main] INFO WebUtils - Set the webelement with the given input value
+2018-02-04 21:52:59,580 [main] INFO WebUtils - Set password
+2018-02-04 21:52:59,616 [main] INFO WebUtils - Given Id of the element is loaded
+2018-02-04 21:52:59,617 [main] INFO WebUtils - Clear the webelement
+2018-02-04 21:52:59,698 [main] INFO WebUtils - Set the webelement with the given input value
+2018-02-04 21:52:59,947 [main] INFO WebUtils - Click submit button
+2018-02-04 21:52:59,988 [main] INFO WebUtils - Given Id of the element is loaded
+2018-02-04 21:52:59,989 [main] INFO WebUtils - Click the submitbutton
+2018-02-04 21:53:00,267 [main] INFO WebUtils - Popup Alert is coorect
+2018-02-04 21:53:00,982 [main] INFO WebUtils - Browser Closed
+2018-02-04 21:53:00,983 [main] INFO Log4jTestWatcher - testHPLoginValidation2(tvoWebTestClasses.FunctionalityTestCases) - Passed
+2018-02-04 21:53:03,186 [main] INFO WebUtils - Browser Opened
+2018-02-04 21:53:03,192 [main] INFO WebUtils - Implict wait for 20 seconds to open the browser loadded with all the components
+2018-02-04 21:53:12,404 [main] INFO WebUtils - Constants.URL Opened
+2018-02-04 21:53:12,409 [main] INFO FunctionalityTestCases - Test4 - Home Page Login Validation with invalid uname and valid password
+2018-02-04 21:53:12,409 [main] INFO WebUtils - Check and Verify Login Credintials
+2018-02-04 21:53:12,410 [main] INFO WebUtils - Set uname
+2018-02-04 21:53:12,448 [main] INFO WebUtils - Given Id of the element is loaded
+2018-02-04 21:53:12,449 [main] INFO WebUtils - Clear the webelement
+2018-02-04 21:53:12,535 [main] INFO WebUtils - Set the webelement with the given input value
+2018-02-04 21:53:13,033 [main] INFO WebUtils - Set password
+2018-02-04 21:53:13,078 [main] INFO WebUtils - Given Id of the element is loaded
+2018-02-04 21:53:13,079 [main] INFO WebUtils - Clear the webelement
+2018-02-04 21:53:13,159 [main] INFO WebUtils - Set the webelement with the given input value
+2018-02-04 21:53:13,312 [main] INFO WebUtils - Click submit button
+2018-02-04 21:53:13,355 [main] INFO WebUtils - Given Id of the element is loaded
+2018-02-04 21:53:13,357 [main] INFO WebUtils - Click the submitbutton
+2018-02-04 21:53:13,626 [main] INFO WebUtils - Popup Alert is coorect
+2018-02-04 21:53:13,627 [main] INFO FunctionalityTestCases - testHPLoginValidation3 Execution Completed
+2018-02-04 21:53:14,347 [main] INFO WebUtils - Browser Closed
+2018-02-04 21:53:14,348 [main] INFO Log4jTestWatcher - testHPLoginValidation3(tvoWebTestClasses.FunctionalityTestCases) - Passed
+2018-02-04 21:53:16,803 [main] INFO WebUtils - Browser Opened
+2018-02-04 21:53:16,809 [main] INFO WebUtils - Implict wait for 20 seconds to open the browser loadded with all the components
+2018-02-04 21:53:26,310 [main] INFO WebUtils - Constants.URL Opened
+2018-02-04 21:53:26,311 [main] INFO FunctionalityTestCases - Test5 - Home Page Login Validation with valid uname and password for the non registered user
+2018-02-04 21:53:26,312 [main] INFO WebUtils - Check and Verify Login Credintials
+2018-02-04 21:53:26,312 [main] INFO WebUtils - Set uname
+2018-02-04 21:53:26,347 [main] INFO WebUtils - Given Id of the element is loaded
+2018-02-04 21:53:26,348 [main] INFO WebUtils - Clear the webelement
+2018-02-04 21:53:26,443 [main] INFO WebUtils - Set the webelement with the given input value
+2018-02-04 21:53:26,940 [main] INFO WebUtils - Set password
+2018-02-04 21:53:26,986 [main] INFO WebUtils - Given Id of the element is loaded
+2018-02-04 21:53:26,987 [main] INFO WebUtils - Clear the webelement
+2018-02-04 21:53:27,087 [main] INFO WebUtils - Set the webelement with the given input value
+2018-02-04 21:53:27,374 [main] INFO WebUtils - Click submit button
+2018-02-04 21:53:27,408 [main] INFO WebUtils - Given Id of the element is loaded
+2018-02-04 21:53:27,408 [main] INFO WebUtils - Click the submitbutton
+2018-02-04 21:53:27,707 [main] INFO WebUtils - Popup Alert is not correct
+2018-02-04 21:53:28,421 [main] INFO WebUtils - Browser Closed
+2018-02-04 21:53:28,442 [main] ERROR Log4jTestWatcher - testHPLoginValidation4(tvoWebTestClasses.FunctionalityTestCases) - Failed
+java.lang.AssertionError
+	at org.junit.Assert.fail(Assert.java:86)
+	at org.junit.Assert.assertTrue(Assert.java:41)
+	at org.junit.Assert.assertTrue(Assert.java:52)
+	at tvoWebTestClasses.FunctionalityTestCases.testHPLoginValidation4(FunctionalityTestCases.java:107)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.rules.TestWatcher$1.evaluate(TestWatcher.java:55)
+	at org.junit.rules.RunRules.evaluate(RunRules.java:20)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runners.Suite.runChild(Suite.java:128)
+	at org.junit.runners.Suite.runChild(Suite.java:27)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:675)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192)
+2018-02-04 21:53:30,645 [main] INFO WebUtils - Browser Opened
+2018-02-04 21:53:30,651 [main] INFO WebUtils - Implict wait for 20 seconds to open the browser loadded with all the components
+2018-02-04 21:53:39,333 [main] INFO WebUtils - Constants.URL Opened
+2018-02-04 21:53:39,338 [main] INFO FunctionalityTestCases - Test6 - Home Page Login Validation with password is empty
+2018-02-04 21:53:39,339 [main] INFO WebUtils - Check and Verify Login Credintials
+2018-02-04 21:53:39,340 [main] INFO WebUtils - Set uname
+2018-02-04 21:53:39,386 [main] INFO WebUtils - Given Id of the element is loaded
+2018-02-04 21:53:39,387 [main] INFO WebUtils - Clear the webelement
+2018-02-04 21:53:39,463 [main] INFO WebUtils - Set the webelement with the given input value
+2018-02-04 21:53:39,971 [main] INFO WebUtils - Set password
+2018-02-04 21:53:40,008 [main] INFO WebUtils - Given Id of the element is loaded
+2018-02-04 21:53:40,009 [main] INFO WebUtils - Clear the webelement
+2018-02-04 21:53:40,088 [main] INFO WebUtils - Set the webelement with the given input value
+2018-02-04 21:53:40,202 [main] INFO WebUtils - Click submit button
+2018-02-04 21:53:40,229 [main] INFO WebUtils - Given Id of the element is loaded
+2018-02-04 21:53:40,230 [main] INFO WebUtils - Click the submitbutton
+2018-02-04 21:53:40,529 [main] INFO WebUtils - Popup Alert is coorect
+2018-02-04 21:53:41,272 [main] INFO WebUtils - Browser Closed
+2018-02-04 21:53:41,273 [main] INFO Log4jTestWatcher - testHPLoginValidation5(tvoWebTestClasses.FunctionalityTestCases) - Passed
+2018-02-04 21:53:43,611 [main] INFO WebUtils - Browser Opened
+2018-02-04 21:53:43,618 [main] INFO WebUtils - Implict wait for 20 seconds to open the browser loadded with all the components
+2018-02-04 21:53:52,607 [main] INFO WebUtils - Constants.URL Opened
+2018-02-04 21:53:52,608 [main] INFO FunctionalityTestCases - Test7 - Registration Page Login Validation
+2018-02-04 21:53:52,609 [main] INFO WebUtils - Check Registration Page
+2018-02-04 21:53:54,276 [main] INFO WebUtils - Navigated to Registration Page and Maximized
+2018-02-04 21:53:54,277 [main] INFO WebUtils - Check Registration Page MPower Logo is loaded or not
+2018-02-04 21:53:54,349 [main] INFO WebUtils - TVO mPower logo is loaded in Registration Page
+2018-02-04 21:53:54,350 [main] INFO WebUtils - Check Registration Page Text are loaded or not
+2018-02-04 21:53:54,542 [main] INFO WebUtils - All the Text in the Registration Page loaded successfully
+2018-02-04 21:53:54,543 [main] INFO WebUtils - Check Registration Page elements/fields are loaded or not
+2018-02-04 21:53:55,134 [main] INFO WebUtils - All the elements/field in the Registration Page loaded successfully
+2018-02-04 21:53:55,135 [main] INFO WebUtils - Registration page loaded successfully
+2018-02-04 21:53:55,852 [main] INFO WebUtils - Browser Closed
+2018-02-04 21:53:55,853 [main] INFO Log4jTestWatcher - testRegPageValidation1(tvoWebTestClasses.FunctionalityTestCases) - Passed
+2018-02-04 21:53:58,505 [main] INFO WebUtils - Browser Opened
+2018-02-04 21:53:58,509 [main] INFO WebUtils - Implict wait for 20 seconds to open the browser loadded with all the components
+2018-02-04 21:54:07,143 [main] INFO WebUtils - Constants.URL Opened
+2018-02-04 21:54:07,144 [main] INFO FunctionalityTestCases - Test1 - Home Page Validation
+2018-02-04 21:54:08,284 [main] INFO WebUtils - Check Home page logo is loaded or not
+2018-02-04 21:54:08,355 [main] INFO WebUtils - TVO mPower logo is loaded in Home Page
+2018-02-04 21:54:08,356 [main] INFO WebUtils - Check All the Text of the Home Page loaded or not
+2018-02-04 21:54:08,705 [main] INFO WebUtils - All the Text in the Home Page Loaded Successfully
+2018-02-04 21:54:08,705 [main] INFO WebUtils - Check all the elements/fields of the Home Page loaged or not
+2018-02-04 21:54:09,223 [main] INFO WebUtils - All the elements/field of the Registration Page is loaded successfully
+2018-02-04 21:54:09,224 [main] INFO WebUtils - Home Page Loaded Successfully
+2018-02-04 21:54:09,930 [main] INFO WebUtils - Browser Closed
+2018-02-04 21:54:09,930 [main] INFO Log4jTestWatcher - testHomePageValidation1(tvoWebTestClasses.FunctionalityTestCases) - Passed
+2018-02-04 21:54:09,931 [main] INFO WebUtils - Browser Closed
+2018-02-04 21:54:09,931 [main] INFO ExcelUtils - Test Input File - D:/Selenium/TVOWebTestInputs.xls
+2018-02-04 21:54:10,053 [main] INFO ExcelUtils - Test Input Excel is Opened
+2018-02-04 21:54:12,849 [main] INFO WebUtils - Browser Opened
+2018-02-04 21:54:12,854 [main] INFO WebUtils - Implict wait for 20 seconds to open the browser loadded with all the components
+2018-02-04 21:54:20,477 [main] INFO WebUtils - Constants.URL Opened
+2018-02-04 21:54:20,478 [main] INFO NavigatePageLinkTestCases - Test4 - Verify all the links in HP is working or broken
+2018-02-04 21:54:22,282 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 21:54:22,373 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 21:54:22,517 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 21:54:22,595 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 21:54:22,744 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 21:54:22,830 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 21:54:22,920 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 21:54:23,018 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 21:54:23,112 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 21:54:23,193 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 21:54:23,297 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 21:54:23,408 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 21:54:23,546 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 21:54:23,630 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 21:54:23,716 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 21:54:23,810 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 21:54:23,812 [main] INFO WebUtils - Link or URL is broken
+2018-02-04 21:54:23,812 [main] INFO WebUtils - Link is broken
+2018-02-04 21:54:23,901 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 21:54:24,161 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 21:54:24,234 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 21:54:24,321 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 21:54:24,411 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 21:54:24,412 [main] INFO WebUtils - Link or URL is broken
+2018-02-04 21:54:24,412 [main] INFO WebUtils - Link is broken
+2018-02-04 21:54:25,146 [main] INFO WebUtils - Browser Closed
+2018-02-04 21:54:25,146 [main] INFO Log4jTestWatcher - LinkNavigation1(tvoWebTestClasses.NavigatePageLinkTestCases) - Passed
+2018-02-04 21:54:28,102 [main] INFO WebUtils - Browser Opened
+2018-02-04 21:54:28,108 [main] INFO WebUtils - Implict wait for 20 seconds to open the browser loadded with all the components
+2018-02-04 21:54:36,449 [main] INFO WebUtils - Constants.URL Opened
+2018-02-04 21:54:36,450 [main] INFO NavigatePageLinkTestCases - Test5 - Verify all the links in the registration page is working or broken
+2018-02-04 21:54:37,919 [main] INFO WebUtils - Navigated to Registration Page and Maximized
+2018-02-04 21:54:38,663 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 21:54:38,757 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 21:54:38,891 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 21:54:39,009 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 21:54:39,110 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 21:54:39,287 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 21:54:39,444 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 21:54:39,993 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 21:54:40,116 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 21:54:40,278 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 21:54:40,376 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 21:54:40,523 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 21:54:40,523 [main] INFO WebUtils - Link or URL is broken
+2018-02-04 21:54:40,524 [main] INFO WebUtils - Link is broken
+2018-02-04 21:54:40,570 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 21:54:40,681 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 21:54:40,836 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 21:54:40,954 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 21:54:40,954 [main] INFO WebUtils - Link or URL is broken
+2018-02-04 21:54:40,955 [main] INFO WebUtils - Link is broken
+2018-02-04 21:54:41,668 [main] INFO WebUtils - Browser Closed
+2018-02-04 21:54:41,668 [main] INFO Log4jTestWatcher - LinkNavigation2(tvoWebTestClasses.NavigatePageLinkTestCases) - Passed
+2018-02-04 21:54:44,630 [main] INFO WebUtils - Browser Opened
+2018-02-04 21:54:44,635 [main] INFO WebUtils - Implict wait for 20 seconds to open the browser loadded with all the components
+2018-02-04 21:54:56,077 [main] INFO WebUtils - Constants.URL Opened
+2018-02-04 21:54:56,078 [main] INFO NavigatePageLinkTestCases - Test1 - Page Navigation from HP to RegPage to HP
+2018-02-04 21:54:56,392 [main] INFO WebUtils - Check Registration Page MPower Logo is loaded or not
+2018-02-04 21:54:56,481 [main] INFO WebUtils - TVO mPower logo is loaded in Registration Page
+2018-02-04 21:54:56,482 [main] INFO WebUtils - Check Registration Page Text are loaded or not
+2018-02-04 21:54:56,617 [main] INFO WebUtils - All the Text in the Registration Page loaded successfully
+2018-02-04 21:54:56,617 [main] INFO WebUtils - Check Registration Page elements/fields are loaded or not
+2018-02-04 21:54:57,160 [main] INFO WebUtils - All the elements/field in the Registration Page loaded successfully
+2018-02-04 21:54:57,161 [main] INFO WebUtils - Registration page loaded successfully
+2018-02-04 21:54:57,161 [main] INFO WebUtils - Successfully Navigated to Registration Page
+2018-02-04 21:54:58,645 [main] INFO WebUtils - Check Home page logo is loaded or not
+2018-02-04 21:54:58,722 [main] INFO WebUtils - TVO mPower logo is loaded in Home Page
+2018-02-04 21:54:58,722 [main] INFO WebUtils - Check All the Text of the Home Page loaded or not
+2018-02-04 21:54:59,022 [main] INFO WebUtils - All the Text in the Home Page Loaded Successfully
+2018-02-04 21:54:59,022 [main] INFO WebUtils - Check all the elements/fields of the Home Page loaged or not
+2018-02-04 21:54:59,575 [main] INFO WebUtils - All the elements/field of the Registration Page is loaded successfully
+2018-02-04 21:54:59,576 [main] INFO WebUtils - Home Page Loaded Successfully
+2018-02-04 21:55:00,303 [main] INFO WebUtils - Browser Closed
+2018-02-04 21:55:00,304 [main] INFO Log4jTestWatcher - PageNavigation1(tvoWebTestClasses.NavigatePageLinkTestCases) - Passed
+2018-02-04 21:55:03,119 [main] INFO WebUtils - Browser Opened
+2018-02-04 21:55:03,124 [main] INFO WebUtils - Implict wait for 20 seconds to open the browser loadded with all the components
+2018-02-04 21:55:11,722 [main] INFO WebUtils - Constants.URL Opened
+2018-02-04 21:55:11,722 [main] INFO NavigatePageLinkTestCases - Test2 - Page Navigation from HP to news window and cancel to HP
+2018-02-04 21:55:12,304 [main] INFO WebUtils - Page navigation from Home page to login news window and the home page is successfu;
+2018-02-04 21:55:13,022 [main] INFO WebUtils - Browser Closed
+2018-02-04 21:55:13,022 [main] INFO Log4jTestWatcher - PageNavigation2(tvoWebTestClasses.NavigatePageLinkTestCases) - Passed
+2018-02-04 21:55:15,209 [main] INFO WebUtils - Browser Opened
+2018-02-04 21:55:15,214 [main] INFO WebUtils - Implict wait for 20 seconds to open the browser loadded with all the components
+2018-02-04 21:55:24,031 [main] INFO WebUtils - Constants.URL Opened
+2018-02-04 21:55:24,031 [main] INFO NavigatePageLinkTestCases - Test3 - Page Navigation from HP to Play page
+2018-02-04 21:55:24,254 [main] INFO WebUtils - Page navigation from Home Page to kids play page is successful
+2018-02-04 21:55:24,959 [main] INFO WebUtils - Browser Closed
+2018-02-04 21:55:24,959 [main] INFO Log4jTestWatcher - PageNavigation3(tvoWebTestClasses.NavigatePageLinkTestCases) - Passed
+2018-02-04 21:55:24,963 [main] INFO CompatibilityTestCases - Test1 - To test page loaded using chrome is successful or not
+2018-02-04 21:55:24,964 [main] INFO WebUtils - Open Browser
+2018-02-04 21:55:27,189 [main] INFO WebUtils - Browser Opened
+2018-02-04 21:55:27,194 [main] INFO WebUtils - Implict wait for 20 seconds to open the browser loadded with all the components
+2018-02-04 21:55:32,619 [main] INFO WebUtils - Constants.URL Opened
+2018-02-04 21:55:32,620 [main] INFO WebUtils - Check page loaded is proper or not
+2018-02-04 21:55:33,757 [main] INFO WebUtils - Check Home Page logo is present or not 
+2018-02-04 21:55:33,848 [main] INFO WebUtils - TVO mPower logo is loaded in Home Page
+2018-02-04 21:55:33,849 [main] INFO WebUtils - Check all the text in the Home page is present or not
+2018-02-04 21:55:34,144 [main] INFO WebUtils - All the Text in the Home Page Loaded Successfully
+2018-02-04 21:55:34,145 [main] INFO WebUtils - Check all the elements/fields or present or not
+2018-02-04 21:55:34,639 [main] INFO WebUtils - All the elements/field of the Registration Page is loaded successfully
+2018-02-04 21:55:34,640 [main] INFO WebUtils - Page Loaded Successfully
+2018-02-04 21:55:34,640 [main] INFO WebUtils - Close the browser
+2018-02-04 21:55:35,376 [main] INFO WebUtils - Browser Closed
+2018-02-04 21:55:35,377 [main] INFO Log4jTestWatcher - CompatibilityTest1(tvoWebTestClasses.CompatibilityTestCases) - Passed
+2018-02-04 21:55:35,380 [main] INFO CompatibilityTestCases - Test2 - To test page loaded using firefox is successful or not
+2018-02-04 21:55:35,381 [main] INFO WebUtils - Open Browser
+2018-02-04 21:55:43,968 [main] INFO WebUtils - Browser Opened
+2018-02-04 21:55:43,992 [main] INFO WebUtils - Implict wait for 20 seconds to open the browser loadded with all the components
+2018-02-04 21:55:48,824 [main] INFO WebUtils - Constants.URL Opened
+2018-02-04 21:55:48,825 [main] INFO WebUtils - Check page loaded is proper or not
+2018-02-04 21:55:52,352 [main] INFO WebUtils - Check Home Page logo is present or not 
+2018-02-04 21:55:52,431 [main] INFO WebUtils - TVO mPower logo is loaded in Home Page
+2018-02-04 21:55:52,432 [main] INFO WebUtils - Check all the text in the Home page is present or not
+2018-02-04 21:55:52,782 [main] INFO WebUtils - All the Text in the Home Page Loaded Successfully
+2018-02-04 21:55:52,783 [main] INFO WebUtils - Check all the elements/fields or present or not
+2018-02-04 21:55:53,263 [main] INFO WebUtils - All the elements/field of the Registration Page is loaded successfully
+2018-02-04 21:55:53,263 [main] INFO WebUtils - Page Loaded Successfully
+2018-02-04 21:55:53,264 [main] INFO WebUtils - Close the browser
+2018-02-04 21:55:54,023 [main] INFO WebUtils - Browser Closed
+2018-02-04 21:55:54,023 [main] INFO Log4jTestWatcher - CompatibilityTest2(tvoWebTestClasses.CompatibilityTestCases) - Passed
+2018-02-04 21:55:54,026 [main] INFO CompatibilityTestCases - Test3 - To test page loaded using Internet Explorer is successful or not
+2018-02-04 21:55:54,027 [main] INFO WebUtils - Open Browser
+2018-02-04 21:55:58,791 [main] INFO WebUtils - Browser Opened
+2018-02-04 21:55:58,807 [main] INFO WebUtils - Implict wait for 20 seconds to open the browser loadded with all the components
+2018-02-04 21:56:04,950 [main] INFO WebUtils - Constants.URL Opened
+2018-02-04 21:56:04,951 [main] INFO WebUtils - Check page loaded is proper or not
+2018-02-04 21:56:04,971 [main] INFO WebUtils - Check Home Page logo is present or not 
+2018-02-04 21:56:05,323 [main] INFO WebUtils - TVO mPower logo is loaded in Home Page
+2018-02-04 21:56:05,324 [main] INFO WebUtils - Check all the text in the Home page is present or not
+2018-02-04 21:56:06,644 [main] INFO WebUtils - All the Text in the Home Page Loaded Successfully
+2018-02-04 21:56:06,645 [main] INFO WebUtils - Check all the elements/fields or present or not
+2018-02-04 21:56:09,637 [main] INFO WebUtils - All the elements/field of the Registration Page is loaded successfully
+2018-02-04 21:56:09,637 [main] INFO WebUtils - Page Loaded Successfully
+2018-02-04 21:56:09,638 [main] INFO WebUtils - Close the browser
+2018-02-04 21:56:10,226 [main] INFO WebUtils - Browser Closed
+2018-02-04 21:56:10,226 [main] INFO Log4jTestWatcher - CompatibilityTest3(tvoWebTestClasses.CompatibilityTestCases) - Passed
+2018-02-04 23:25:09,890 [main] INFO ExcelUtils - Test Input Excel is Opened
+2018-02-04 23:25:17,099 [main] INFO WebUtils - Browser Opened
+2018-02-04 23:25:17,104 [main] INFO WebUtils - Implict wait for 20 seconds to open the browser loadded with all the components
+2018-02-04 23:25:24,670 [main] INFO WebUtils - Constants.URL Opened
+2018-02-04 23:25:24,672 [main] INFO FunctionalityTestCases - Test2 - Home Page Login Validation with uname and password is empty or null
+2018-02-04 23:25:24,816 [main] INFO WebUtils - Check and Verify Login Credintials
+2018-02-04 23:25:24,817 [main] INFO WebUtils - Set uname
+2018-02-04 23:25:25,086 [main] INFO WebUtils - Given Id of the element is loaded
+2018-02-04 23:25:25,086 [main] INFO WebUtils - Clear the webelement
+2018-02-04 23:25:25,435 [main] INFO WebUtils - Set the webelement with the given input value
+2018-02-04 23:25:25,789 [main] INFO WebUtils - Set password
+2018-02-04 23:25:25,821 [main] INFO WebUtils - Given Id of the element is loaded
+2018-02-04 23:25:25,822 [main] INFO WebUtils - Clear the webelement
+2018-02-04 23:25:25,896 [main] INFO WebUtils - Set the webelement with the given input value
+2018-02-04 23:25:25,999 [main] INFO WebUtils - Click submit button
+2018-02-04 23:25:26,030 [main] INFO WebUtils - Given Id of the element is loaded
+2018-02-04 23:25:26,031 [main] INFO WebUtils - Click the submitbutton
+2018-02-04 23:25:26,357 [main] INFO WebUtils - Popup Alert is coorect
+2018-02-04 23:25:27,159 [main] INFO WebUtils - Browser Closed
+2018-02-04 23:25:27,162 [main] INFO TVOWebProLog4jTestWatcher - testHPLoginValidation1(com.tvo.testcases.TVOWebProFunctionalityTest) - Passed
+2018-02-04 23:25:31,169 [main] INFO WebUtils - Browser Opened
+2018-02-04 23:25:31,179 [main] INFO WebUtils - Implict wait for 20 seconds to open the browser loadded with all the components
+2018-02-04 23:25:33,537 [main] INFO WebUtils - Constants.URL Opened
+2018-02-04 23:25:33,538 [main] INFO FunctionalityTestCases - Test3 - Home Page Login Validation with invalid uname and valid password
+2018-02-04 23:25:33,538 [main] INFO WebUtils - Check and Verify Login Credintials
+2018-02-04 23:25:33,539 [main] INFO WebUtils - Set uname
+2018-02-04 23:25:36,623 [main] INFO WebUtils - Given Id of the element is loaded
+2018-02-04 23:25:36,624 [main] INFO WebUtils - Clear the webelement
+2018-02-04 23:25:37,181 [main] INFO WebUtils - Set the webelement with the given input value
+2018-02-04 23:25:37,470 [main] INFO WebUtils - Set password
+2018-02-04 23:25:37,509 [main] INFO WebUtils - Given Id of the element is loaded
+2018-02-04 23:25:37,510 [main] INFO WebUtils - Clear the webelement
+2018-02-04 23:25:37,590 [main] INFO WebUtils - Set the webelement with the given input value
+2018-02-04 23:25:38,023 [main] INFO WebUtils - Click submit button
+2018-02-04 23:25:38,064 [main] INFO WebUtils - Given Id of the element is loaded
+2018-02-04 23:25:38,065 [main] INFO WebUtils - Click the submitbutton
+2018-02-04 23:25:38,366 [main] INFO WebUtils - Popup Alert is coorect
+2018-02-04 23:25:39,077 [main] INFO WebUtils - Browser Closed
+2018-02-04 23:25:39,079 [main] INFO TVOWebProLog4jTestWatcher - testHPLoginValidation2(com.tvo.testcases.TVOWebProFunctionalityTest) - Passed
+2018-02-04 23:25:43,812 [main] INFO WebUtils - Browser Opened
+2018-02-04 23:25:43,819 [main] INFO WebUtils - Implict wait for 20 seconds to open the browser loadded with all the components
+2018-02-04 23:26:05,631 [main] INFO WebUtils - Constants.URL Opened
+2018-02-04 23:26:05,632 [main] INFO FunctionalityTestCases - Test4 - Home Page Login Validation with invalid uname and valid password
+2018-02-04 23:26:05,632 [main] INFO WebUtils - Check and Verify Login Credintials
+2018-02-04 23:26:05,633 [main] INFO WebUtils - Set uname
+2018-02-04 23:26:05,674 [main] INFO WebUtils - Given Id of the element is loaded
+2018-02-04 23:26:05,675 [main] INFO WebUtils - Clear the webelement
+2018-02-04 23:26:05,766 [main] INFO WebUtils - Set the webelement with the given input value
+2018-02-04 23:26:06,080 [main] INFO WebUtils - Set password
+2018-02-04 23:26:06,121 [main] INFO WebUtils - Given Id of the element is loaded
+2018-02-04 23:26:06,121 [main] INFO WebUtils - Clear the webelement
+2018-02-04 23:26:06,222 [main] INFO WebUtils - Set the webelement with the given input value
+2018-02-04 23:26:06,406 [main] INFO WebUtils - Click submit button
+2018-02-04 23:26:06,456 [main] INFO WebUtils - Given Id of the element is loaded
+2018-02-04 23:26:06,457 [main] INFO WebUtils - Click the submitbutton
+2018-02-04 23:26:06,736 [main] INFO WebUtils - Popup Alert is coorect
+2018-02-04 23:26:06,737 [main] INFO FunctionalityTestCases - testHPLoginValidation3 Execution Completed
+2018-02-04 23:26:07,435 [main] INFO WebUtils - Browser Closed
+2018-02-04 23:26:07,435 [main] INFO TVOWebProLog4jTestWatcher - testHPLoginValidation3(com.tvo.testcases.TVOWebProFunctionalityTest) - Passed
+2018-02-04 23:26:11,622 [main] INFO WebUtils - Browser Opened
+2018-02-04 23:26:11,630 [main] INFO WebUtils - Implict wait for 20 seconds to open the browser loadded with all the components
+2018-02-04 23:26:20,613 [main] INFO WebUtils - Constants.URL Opened
+2018-02-04 23:26:20,614 [main] INFO FunctionalityTestCases - Test5 - Home Page Login Validation with valid uname and password for the non registered user
+2018-02-04 23:26:20,615 [main] INFO WebUtils - Check and Verify Login Credintials
+2018-02-04 23:26:20,616 [main] INFO WebUtils - Set uname
+2018-02-04 23:26:20,646 [main] INFO WebUtils - Given Id of the element is loaded
+2018-02-04 23:26:20,646 [main] INFO WebUtils - Clear the webelement
+2018-02-04 23:26:20,722 [main] INFO WebUtils - Set the webelement with the given input value
+2018-02-04 23:26:21,021 [main] INFO WebUtils - Set password
+2018-02-04 23:26:21,058 [main] INFO WebUtils - Given Id of the element is loaded
+2018-02-04 23:26:21,059 [main] INFO WebUtils - Clear the webelement
+2018-02-04 23:26:21,160 [main] INFO WebUtils - Set the webelement with the given input value
+2018-02-04 23:26:21,406 [main] INFO WebUtils - Click submit button
+2018-02-04 23:26:21,441 [main] INFO WebUtils - Given Id of the element is loaded
+2018-02-04 23:26:21,442 [main] INFO WebUtils - Click the submitbutton
+2018-02-04 23:26:21,741 [main] INFO WebUtils - Popup Alert is not correct
+2018-02-04 23:26:22,466 [main] INFO WebUtils - Browser Closed
+2018-02-04 23:26:22,466 [main] ERROR TVOWebProLog4jTestWatcher - testHPLoginValidation4(com.tvo.testcases.TVOWebProFunctionalityTest) - Failed
+java.lang.AssertionError
+	at org.junit.Assert.fail(Assert.java:86)
+	at org.junit.Assert.assertTrue(Assert.java:41)
+	at org.junit.Assert.assertTrue(Assert.java:52)
+	at com.tvo.testcases.TVOWebProFunctionalityTest.testHPLoginValidation4(TVOWebProFunctionalityTest.java:107)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.rules.TestWatcher$1.evaluate(TestWatcher.java:55)
+	at org.junit.rules.RunRules.evaluate(RunRules.java:20)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runners.Suite.runChild(Suite.java:128)
+	at org.junit.runners.Suite.runChild(Suite.java:27)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:675)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192)
+2018-02-04 23:26:25,825 [main] INFO WebUtils - Browser Opened
+2018-02-04 23:26:25,838 [main] INFO WebUtils - Implict wait for 20 seconds to open the browser loadded with all the components
+2018-02-04 23:26:35,424 [main] INFO WebUtils - Constants.URL Opened
+2018-02-04 23:26:35,425 [main] INFO FunctionalityTestCases - Test6 - Home Page Login Validation with password is empty
+2018-02-04 23:26:35,426 [main] INFO WebUtils - Check and Verify Login Credintials
+2018-02-04 23:26:35,427 [main] INFO WebUtils - Set uname
+2018-02-04 23:26:35,468 [main] INFO WebUtils - Given Id of the element is loaded
+2018-02-04 23:26:35,469 [main] INFO WebUtils - Clear the webelement
+2018-02-04 23:26:35,568 [main] INFO WebUtils - Set the webelement with the given input value
+2018-02-04 23:26:36,000 [main] INFO WebUtils - Set password
+2018-02-04 23:26:36,043 [main] INFO WebUtils - Given Id of the element is loaded
+2018-02-04 23:26:36,044 [main] INFO WebUtils - Clear the webelement
+2018-02-04 23:26:36,135 [main] INFO WebUtils - Set the webelement with the given input value
+2018-02-04 23:26:36,283 [main] INFO WebUtils - Click submit button
+2018-02-04 23:26:36,315 [main] INFO WebUtils - Given Id of the element is loaded
+2018-02-04 23:26:36,315 [main] INFO WebUtils - Click the submitbutton
+2018-02-04 23:26:36,546 [main] INFO WebUtils - Popup Alert is coorect
+2018-02-04 23:26:37,246 [main] INFO WebUtils - Browser Closed
+2018-02-04 23:26:37,246 [main] INFO TVOWebProLog4jTestWatcher - testHPLoginValidation5(com.tvo.testcases.TVOWebProFunctionalityTest) - Passed
+2018-02-04 23:26:40,640 [main] INFO WebUtils - Browser Opened
+2018-02-04 23:26:40,651 [main] INFO WebUtils - Implict wait for 20 seconds to open the browser loadded with all the components
+2018-02-04 23:26:43,104 [main] INFO WebUtils - Constants.URL Opened
+2018-02-04 23:26:43,105 [main] INFO FunctionalityTestCases - Test7 - Registration Page Login Validation
+2018-02-04 23:26:43,106 [main] INFO WebUtils - Check Registration Page
+2018-02-04 23:26:48,984 [main] INFO WebUtils - Navigated to Registration Page and Maximized
+2018-02-04 23:26:48,985 [main] INFO WebUtils - Check Registration Page MPower Logo is loaded or not
+2018-02-04 23:26:49,061 [main] INFO WebUtils - TVO mPower logo is loaded in Registration Page
+2018-02-04 23:26:49,062 [main] INFO WebUtils - Check Registration Page Text are loaded or not
+2018-02-04 23:26:49,217 [main] INFO WebUtils - All the Text in the Registration Page loaded successfully
+2018-02-04 23:26:49,217 [main] INFO WebUtils - Check Registration Page elements/fields are loaded or not
+2018-02-04 23:26:49,767 [main] INFO WebUtils - All the elements/field in the Registration Page loaded successfully
+2018-02-04 23:26:49,767 [main] INFO WebUtils - Registration page loaded successfully
+2018-02-04 23:26:50,480 [main] INFO WebUtils - Browser Closed
+2018-02-04 23:26:50,481 [main] INFO TVOWebProLog4jTestWatcher - testRegPageValidation1(com.tvo.testcases.TVOWebProFunctionalityTest) - Passed
+2018-02-04 23:26:56,299 [main] INFO WebUtils - Browser Opened
+2018-02-04 23:26:56,304 [main] INFO WebUtils - Implict wait for 20 seconds to open the browser loadded with all the components
+2018-02-04 23:27:10,458 [main] INFO WebUtils - Constants.URL Opened
+2018-02-04 23:27:10,460 [main] INFO FunctionalityTestCases - Test1 - Home Page Validation
+2018-02-04 23:27:11,593 [main] INFO WebUtils - Check Home page logo is loaded or not
+2018-02-04 23:27:11,680 [main] INFO WebUtils - TVO mPower logo is loaded in Home Page
+2018-02-04 23:27:11,681 [main] INFO WebUtils - Check All the Text of the Home Page loaded or not
+2018-02-04 23:27:12,043 [main] INFO WebUtils - All the Text in the Home Page Loaded Successfully
+2018-02-04 23:27:12,043 [main] INFO WebUtils - Check all the elements/fields of the Home Page loaged or not
+2018-02-04 23:27:12,553 [main] INFO WebUtils - All the elements/field of the Registration Page is loaded successfully
+2018-02-04 23:27:12,553 [main] INFO WebUtils - Home Page Loaded Successfully
+2018-02-04 23:27:13,249 [main] INFO WebUtils - Browser Closed
+2018-02-04 23:27:13,250 [main] INFO TVOWebProLog4jTestWatcher - testHomePageValidation1(com.tvo.testcases.TVOWebProFunctionalityTest) - Passed
+2018-02-04 23:27:13,250 [main] INFO WebUtils - Browser Closed
+2018-02-04 23:27:13,250 [main] INFO ExcelUtils - Test Input File - D:/Selenium/TVOWebTestInputs.xls
+2018-02-04 23:27:13,360 [main] INFO ExcelUtils - Test Input Excel is Opened
+2018-02-04 23:27:17,231 [main] INFO WebUtils - Browser Opened
+2018-02-04 23:27:17,241 [main] INFO WebUtils - Implict wait for 20 seconds to open the browser loadded with all the components
+2018-02-04 23:27:25,744 [main] INFO WebUtils - Constants.URL Opened
+2018-02-04 23:27:25,745 [main] INFO NavigatePageLinkTestCases - Test4 - Verify all the links in HP is working or broken
+2018-02-04 23:27:27,255 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 23:27:27,349 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 23:27:27,436 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 23:27:27,528 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 23:27:27,636 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 23:27:27,730 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 23:27:27,831 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 23:27:27,918 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 23:27:27,999 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 23:27:28,073 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 23:27:28,147 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 23:27:28,235 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 23:27:28,327 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 23:27:28,428 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 23:27:28,588 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 23:27:28,669 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 23:27:28,670 [main] INFO WebUtils - Link or URL is broken
+2018-02-04 23:27:28,671 [main] INFO WebUtils - Link is broken
+2018-02-04 23:27:28,760 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 23:27:28,831 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 23:27:28,915 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 23:27:29,001 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 23:27:29,080 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 23:27:29,081 [main] INFO WebUtils - Link or URL is broken
+2018-02-04 23:27:29,081 [main] INFO WebUtils - Link is broken
+2018-02-04 23:27:29,764 [main] INFO WebUtils - Browser Closed
+2018-02-04 23:27:29,764 [main] INFO TVOWebProLog4jTestWatcher - LinkNavigation1(com.tvo.testcases.TVOWebProNavigationTest) - Passed
+2018-02-04 23:27:33,022 [main] INFO WebUtils - Browser Opened
+2018-02-04 23:27:33,034 [main] INFO WebUtils - Implict wait for 20 seconds to open the browser loadded with all the components
+2018-02-04 23:27:44,188 [main] INFO WebUtils - Constants.URL Opened
+2018-02-04 23:27:44,189 [main] INFO NavigatePageLinkTestCases - Test5 - Verify all the links in the registration page is working or broken
+2018-02-04 23:27:45,758 [main] INFO WebUtils - Navigated to Registration Page and Maximized
+2018-02-04 23:27:46,374 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 23:27:46,455 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 23:27:46,550 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 23:27:46,668 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 23:27:46,762 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 23:27:46,860 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 23:27:47,034 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 23:27:47,167 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 23:27:47,270 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 23:27:47,357 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 23:27:47,442 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 23:27:47,547 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 23:27:47,548 [main] INFO WebUtils - Link or URL is broken
+2018-02-04 23:27:47,548 [main] INFO WebUtils - Link is broken
+2018-02-04 23:27:47,601 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 23:27:47,706 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 23:27:47,812 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 23:27:47,920 [main] INFO WebUtils - Link or URL is not broken
+2018-02-04 23:27:47,920 [main] INFO WebUtils - Link or URL is broken
+2018-02-04 23:27:47,921 [main] INFO WebUtils - Link is broken
+2018-02-04 23:27:48,636 [main] INFO WebUtils - Browser Closed
+2018-02-04 23:27:48,636 [main] INFO TVOWebProLog4jTestWatcher - LinkNavigation2(com.tvo.testcases.TVOWebProNavigationTest) - Passed
+2018-02-04 23:27:52,344 [main] INFO WebUtils - Browser Opened
+2018-02-04 23:27:52,371 [main] INFO WebUtils - Implict wait for 20 seconds to open the browser loadded with all the components
+2018-02-04 23:28:03,142 [main] INFO WebUtils - Constants.URL Opened
+2018-02-04 23:28:03,143 [main] INFO NavigatePageLinkTestCases - Test1 - Page Navigation from HP to RegPage to HP
+2018-02-04 23:28:03,482 [main] INFO WebUtils - Check Registration Page MPower Logo is loaded or not
+2018-02-04 23:28:03,598 [main] INFO WebUtils - TVO mPower logo is loaded in Registration Page
+2018-02-04 23:28:03,598 [main] INFO WebUtils - Check Registration Page Text are loaded or not
+2018-02-04 23:28:03,711 [main] INFO WebUtils - All the Text in the Registration Page loaded successfully
+2018-02-04 23:28:03,712 [main] INFO WebUtils - Check Registration Page elements/fields are loaded or not
+2018-02-04 23:28:04,261 [main] INFO WebUtils - All the elements/field in the Registration Page loaded successfully
+2018-02-04 23:28:04,262 [main] INFO WebUtils - Registration page loaded successfully
+2018-02-04 23:28:04,262 [main] INFO WebUtils - Successfully Navigated to Registration Page
+2018-02-04 23:28:05,771 [main] INFO WebUtils - Check Home page logo is loaded or not
+2018-02-04 23:28:05,844 [main] INFO WebUtils - TVO mPower logo is loaded in Home Page
+2018-02-04 23:28:05,845 [main] INFO WebUtils - Check All the Text of the Home Page loaded or not
+2018-02-04 23:28:06,131 [main] INFO WebUtils - All the Text in the Home Page Loaded Successfully
+2018-02-04 23:28:06,131 [main] INFO WebUtils - Check all the elements/fields of the Home Page loaged or not
+2018-02-04 23:28:06,615 [main] INFO WebUtils - All the elements/field of the Registration Page is loaded successfully
+2018-02-04 23:28:06,616 [main] INFO WebUtils - Home Page Loaded Successfully
+2018-02-04 23:28:07,342 [main] INFO WebUtils - Browser Closed
+2018-02-04 23:28:07,342 [main] INFO TVOWebProLog4jTestWatcher - PageNavigation1(com.tvo.testcases.TVOWebProNavigationTest) - Passed
+2018-02-04 23:28:10,959 [main] INFO WebUtils - Browser Opened
+2018-02-04 23:28:10,968 [main] INFO WebUtils - Implict wait for 20 seconds to open the browser loadded with all the components
+2018-02-04 23:28:25,426 [main] INFO WebUtils - Constants.URL Opened
+2018-02-04 23:28:25,430 [main] INFO NavigatePageLinkTestCases - Test2 - Page Navigation from HP to news window and cancel to HP
+2018-02-04 23:28:26,158 [main] INFO WebUtils - Page navigation from Home page to login news window and the home page is successfu;
+2018-02-04 23:28:26,888 [main] INFO WebUtils - Browser Closed
+2018-02-04 23:28:26,889 [main] INFO TVOWebProLog4jTestWatcher - PageNavigation2(com.tvo.testcases.TVOWebProNavigationTest) - Passed
+2018-02-04 23:28:30,437 [main] INFO WebUtils - Browser Opened
+2018-02-04 23:28:30,447 [main] INFO WebUtils - Implict wait for 20 seconds to open the browser loadded with all the components
+2018-02-04 23:28:40,945 [main] INFO WebUtils - Constants.URL Opened
+2018-02-04 23:28:40,946 [main] INFO NavigatePageLinkTestCases - Test3 - Page Navigation from HP to Play page
+2018-02-04 23:28:41,144 [main] INFO WebUtils - Page navigation from Home Page to kids play page is successful
+2018-02-04 23:28:41,849 [main] INFO WebUtils - Browser Closed
+2018-02-04 23:28:41,849 [main] INFO TVOWebProLog4jTestWatcher - PageNavigation3(com.tvo.testcases.TVOWebProNavigationTest) - Passed
+2018-02-04 23:28:41,849 [main] INFO TVOWebProCompatabilityTest - Test1 - To test page loaded using chrome is successful or not
+2018-02-04 23:28:41,849 [main] INFO WebUtils - Open Browser
+2018-02-04 23:28:45,006 [main] INFO WebUtils - Browser Opened
+2018-02-04 23:28:45,010 [main] INFO WebUtils - Implict wait for 20 seconds to open the browser loadded with all the components
+2018-02-04 23:28:54,820 [main] INFO WebUtils - Constants.URL Opened
+2018-02-04 23:28:54,821 [main] INFO WebUtils - Check page loaded is proper or not
+2018-02-04 23:28:55,965 [main] INFO WebUtils - Check Home Page logo is present or not 
+2018-02-04 23:28:56,083 [main] INFO WebUtils - TVO mPower logo is loaded in Home Page
+2018-02-04 23:28:56,083 [main] INFO WebUtils - Check all the text in the Home page is present or not
+2018-02-04 23:28:56,448 [main] INFO WebUtils - All the Text in the Home Page Loaded Successfully
+2018-02-04 23:28:56,449 [main] INFO WebUtils - Check all the elements/fields or present or not
+2018-02-04 23:28:57,012 [main] INFO WebUtils - All the elements/field of the Registration Page is loaded successfully
+2018-02-04 23:28:57,013 [main] INFO WebUtils - Page Loaded Successfully
+2018-02-04 23:28:57,013 [main] INFO WebUtils - Close the browser
+2018-02-04 23:28:57,730 [main] INFO WebUtils - Browser Closed
+2018-02-04 23:28:57,730 [main] INFO TVOWebProLog4jTestWatcher - CompatibilityTest1(com.tvo.testcases.TVOWebProCompatabilityTest) - Passed
+2018-02-04 23:28:57,730 [main] INFO TVOWebProCompatabilityTest - Test2 - To test page loaded using firefox is successful or not
+2018-02-04 23:28:57,730 [main] INFO WebUtils - Open Browser
+2018-02-04 23:29:16,070 [main] INFO WebUtils - Browser Opened
+2018-02-04 23:29:16,426 [main] INFO WebUtils - Implict wait for 20 seconds to open the browser loadded with all the components
+2018-02-04 23:29:23,461 [main] INFO WebUtils - Constants.URL Opened
+2018-02-04 23:29:23,461 [main] INFO WebUtils - Check page loaded is proper or not
+2018-02-04 23:29:27,074 [main] INFO WebUtils - Check Home Page logo is present or not 
+2018-02-04 23:29:27,357 [main] INFO WebUtils - TVO mPower logo is loaded in Home Page
+2018-02-04 23:29:27,358 [main] INFO WebUtils - Check all the text in the Home page is present or not
+2018-02-04 23:29:27,733 [main] INFO WebUtils - All the Text in the Home Page Loaded Successfully
+2018-02-04 23:29:27,733 [main] INFO WebUtils - Check all the elements/fields or present or not
+2018-02-04 23:29:28,232 [main] INFO WebUtils - All the elements/field of the Registration Page is loaded successfully
+2018-02-04 23:29:28,232 [main] INFO WebUtils - Page Loaded Successfully
+2018-02-04 23:29:28,233 [main] INFO WebUtils - Close the browser
+2018-02-04 23:29:29,150 [main] INFO WebUtils - Browser Closed
+2018-02-04 23:29:29,150 [main] INFO TVOWebProLog4jTestWatcher - CompatibilityTest2(com.tvo.testcases.TVOWebProCompatabilityTest) - Passed
+2018-02-04 23:29:29,150 [main] INFO TVOWebProCompatabilityTest - Test3 - To test page loaded using Internet Explorer is successful or not
+2018-02-04 23:29:29,150 [main] INFO WebUtils - Open Browser
+2018-02-04 23:29:50,264 [main] INFO WebUtils - Browser Opened
+2018-02-04 23:29:50,280 [main] INFO WebUtils - Implict wait for 20 seconds to open the browser loadded with all the components
+2018-02-04 23:29:53,269 [main] INFO WebUtils - Constants.URL Opened
+2018-02-04 23:29:53,269 [main] INFO WebUtils - Check page loaded is proper or not
+2018-02-04 23:29:53,286 [main] INFO WebUtils - Check Home Page logo is present or not 
+2018-02-04 23:29:55,019 [main] INFO WebUtils - TVO mPower logo is loaded in Home Page
+2018-02-04 23:29:55,019 [main] INFO WebUtils - Check all the text in the Home page is present or not
+2018-02-04 23:29:57,048 [main] INFO WebUtils - All the Text in the Home Page Loaded Successfully
+2018-02-04 23:29:57,049 [main] INFO WebUtils - Check all the elements/fields or present or not
+2018-02-04 23:30:00,683 [main] INFO WebUtils - All the elements/field of the Registration Page is loaded successfully
+2018-02-04 23:30:00,683 [main] INFO WebUtils - Page Loaded Successfully
+2018-02-04 23:30:00,683 [main] INFO WebUtils - Close the browser
+2018-02-04 23:30:01,445 [main] INFO WebUtils - Browser Closed
+2018-02-04 23:30:01,445 [main] INFO TVOWebProLog4jTestWatcher - CompatibilityTest3(com.tvo.testcases.TVOWebProCompatabilityTest) - Passed
+2018-02-05 00:07:42,120 [main] INFO ExcelUtils - Test Input Excel is Opened
+2018-02-05 00:07:54,575 [main] INFO WebUtils - Browser Closed
+2018-02-05 00:07:54,579 [main] ERROR TVOWebProLog4jTestWatcher - testHPLoginValidation1(com.tvo.testcases.TVOWebProFunctionalityTest) - Failed
+org.openqa.selenium.SessionNotCreatedException: session not created exception
+from disconnected: received Inspector.detached event
+  (Session info: chrome=63.0.3239.132)
+  (Driver info: chromedriver=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 9.32 seconds
+Build info: version: '3.8.1', revision: '6e95a6684b', time: '2017-12-01T19:05:32.194Z'
+System info: host: 'MRIDULA', ip: '192.168.0.10', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_20'
+Driver info: driver.version: ChromeDriver
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)
+	at org.openqa.selenium.remote.JsonWireProtocolResponse.lambda$new$0(JsonWireProtocolResponse.java:53)
+	at org.openqa.selenium.remote.JsonWireProtocolResponse$$Lambda$107/960733886.apply(Unknown Source)
+	at org.openqa.selenium.remote.JsonWireProtocolResponse.lambda$getResponseFunction$2(JsonWireProtocolResponse.java:91)
+	at org.openqa.selenium.remote.JsonWireProtocolResponse$$Lambda$109/360207322.apply(Unknown Source)
+	at org.openqa.selenium.remote.ProtocolHandshake.lambda$createSession$0(ProtocolHandshake.java:123)
+	at org.openqa.selenium.remote.ProtocolHandshake$$Lambda$116/1442191055.apply(Unknown Source)
+	at java.util.stream.ReferencePipeline$3$1.accept(Unknown Source)
+	at java.util.Spliterators$ArraySpliterator.tryAdvance(Unknown Source)
+	at java.util.stream.ReferencePipeline.forEachWithCancel(Unknown Source)
+	at java.util.stream.AbstractPipeline.copyIntoWithCancel(Unknown Source)
+	at java.util.stream.AbstractPipeline.copyInto(Unknown Source)
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(Unknown Source)
+	at java.util.stream.FindOps$FindOp.evaluateSequential(Unknown Source)
+	at java.util.stream.AbstractPipeline.evaluate(Unknown Source)
+	at java.util.stream.ReferencePipeline.findFirst(Unknown Source)
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:126)
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:73)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:142)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:601)
+	at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:219)
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:142)
+	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:181)
+	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:168)
+	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:123)
+	at com.tvo.util.WebUtils.openBrowser(WebUtils.java:33)
+	at com.tvo.testcases.TVOWebProFunctionalityTest.setUp(TVOWebProFunctionalityTest.java:41)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:24)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.rules.TestWatcher$1.evaluate(TestWatcher.java:55)
+	at org.junit.rules.RunRules.evaluate(RunRules.java:20)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runners.Suite.runChild(Suite.java:128)
+	at org.junit.runners.Suite.runChild(Suite.java:27)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:675)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192)
+2018-02-05 00:07:58,033 [main] INFO WebUtils - Browser Closed
+2018-02-05 00:07:58,055 [main] ERROR TVOWebProLog4jTestWatcher - testHPLoginValidation2(com.tvo.testcases.TVOWebProFunctionalityTest) - Failed
+org.openqa.selenium.SessionNotCreatedException: session not created exception
+from disconnected: received Inspector.detached event
+  (Session info: chrome=63.0.3239.132)
+  (Driver info: chromedriver=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 2.87 seconds
+Build info: version: '3.8.1', revision: '6e95a6684b', time: '2017-12-01T19:05:32.194Z'
+System info: host: 'MRIDULA', ip: '192.168.0.10', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_20'
+Driver info: driver.version: ChromeDriver
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)
+	at org.openqa.selenium.remote.JsonWireProtocolResponse.lambda$new$0(JsonWireProtocolResponse.java:53)
+	at org.openqa.selenium.remote.JsonWireProtocolResponse$$Lambda$107/960733886.apply(Unknown Source)
+	at org.openqa.selenium.remote.JsonWireProtocolResponse.lambda$getResponseFunction$2(JsonWireProtocolResponse.java:91)
+	at org.openqa.selenium.remote.JsonWireProtocolResponse$$Lambda$109/360207322.apply(Unknown Source)
+	at org.openqa.selenium.remote.ProtocolHandshake.lambda$createSession$0(ProtocolHandshake.java:123)
+	at org.openqa.selenium.remote.ProtocolHandshake$$Lambda$116/1442191055.apply(Unknown Source)
+	at java.util.stream.ReferencePipeline$3$1.accept(Unknown Source)
+	at java.util.Spliterators$ArraySpliterator.tryAdvance(Unknown Source)
+	at java.util.stream.ReferencePipeline.forEachWithCancel(Unknown Source)
+	at java.util.stream.AbstractPipeline.copyIntoWithCancel(Unknown Source)
+	at java.util.stream.AbstractPipeline.copyInto(Unknown Source)
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(Unknown Source)
+	at java.util.stream.FindOps$FindOp.evaluateSequential(Unknown Source)
+	at java.util.stream.AbstractPipeline.evaluate(Unknown Source)
+	at java.util.stream.ReferencePipeline.findFirst(Unknown Source)
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:126)
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:73)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:142)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:601)
+	at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:219)
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:142)
+	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:181)
+	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:168)
+	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:123)
+	at com.tvo.util.WebUtils.openBrowser(WebUtils.java:33)
+	at com.tvo.testcases.TVOWebProFunctionalityTest.setUp(TVOWebProFunctionalityTest.java:41)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:24)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.rules.TestWatcher$1.evaluate(TestWatcher.java:55)
+	at org.junit.rules.RunRules.evaluate(RunRules.java:20)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runners.Suite.runChild(Suite.java:128)
+	at org.junit.runners.Suite.runChild(Suite.java:27)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:675)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192)
+2018-02-05 00:39:42,908 [main] INFO ExcelUtils - Test Input File - /TVOWebProject/ReferenceDocs/TVOWebTestInputs.xls
+2018-02-05 00:39:42,931 [main] INFO TVOWebProCompatabilityTest - Test1 - To test page loaded using chrome is successful or not
+2018-02-05 00:39:42,934 [main] ERROR TVOWebProLog4jTestWatcher - CompatibilityTest1(com.tvo.testcases.TVOWebProCompatabilityTest) - Failed
+java.lang.NullPointerException
+	at com.tvo.util.ExcelUtils.getCellData(ExcelUtils.java:38)
+	at com.tvo.util.ExcelUtils.extractTestCaseInputs(ExcelUtils.java:51)
+	at com.tvo.testcases.TVOWebProCompatabilityTest.CompatibilityTest1(TVOWebProCompatabilityTest.java:35)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.rules.TestWatcher$1.evaluate(TestWatcher.java:55)
+	at org.junit.rules.RunRules.evaluate(RunRules.java:20)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runners.Suite.runChild(Suite.java:128)
+	at org.junit.runners.Suite.runChild(Suite.java:27)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:675)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192)
+2018-02-05 00:39:42,971 [main] INFO TVOWebProCompatabilityTest - Test2 - To test page loaded using firefox is successful or not
+2018-02-05 00:39:42,973 [main] ERROR TVOWebProLog4jTestWatcher - CompatibilityTest2(com.tvo.testcases.TVOWebProCompatabilityTest) - Failed
+java.lang.NullPointerException
+	at com.tvo.util.ExcelUtils.getCellData(ExcelUtils.java:38)
+	at com.tvo.util.ExcelUtils.extractTestCaseInputs(ExcelUtils.java:51)
+	at com.tvo.testcases.TVOWebProCompatabilityTest.CompatibilityTest2(TVOWebProCompatabilityTest.java:46)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.rules.TestWatcher$1.evaluate(TestWatcher.java:55)
+	at org.junit.rules.RunRules.evaluate(RunRules.java:20)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runners.Suite.runChild(Suite.java:128)
+	at org.junit.runners.Suite.runChild(Suite.java:27)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:675)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192)
+2018-02-05 00:39:42,989 [main] INFO TVOWebProCompatabilityTest - Test3 - To test page loaded using Internet Explorer is successful or not
+2018-02-05 00:39:42,992 [main] ERROR TVOWebProLog4jTestWatcher - CompatibilityTest3(com.tvo.testcases.TVOWebProCompatabilityTest) - Failed
+java.lang.NullPointerException
+	at com.tvo.util.ExcelUtils.getCellData(ExcelUtils.java:38)
+	at com.tvo.util.ExcelUtils.extractTestCaseInputs(ExcelUtils.java:51)
+	at com.tvo.testcases.TVOWebProCompatabilityTest.CompatibilityTest3(TVOWebProCompatabilityTest.java:57)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.rules.TestWatcher$1.evaluate(TestWatcher.java:55)
+	at org.junit.rules.RunRules.evaluate(RunRules.java:20)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runners.Suite.runChild(Suite.java:128)
+	at org.junit.runners.Suite.runChild(Suite.java:27)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:675)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192)
+2018-02-05 00:42:08,146 [main] INFO ExcelUtils - Test Input File - /TVOWebProject/ReferenceDocs/TVOWebTestInputs.xls
+2018-02-05 00:42:08,166 [main] INFO TVOWebProCompatabilityTest - Test1 - To test page loaded using chrome is successful or not
+2018-02-05 00:42:08,169 [main] ERROR TVOWebProLog4jTestWatcher - CompatibilityTest1(com.tvo.testcases.TVOWebProCompatabilityTest) - Failed
+java.lang.NullPointerException
+	at com.tvo.util.ExcelUtils.getCellData(ExcelUtils.java:38)
+	at com.tvo.util.ExcelUtils.extractTestCaseInputs(ExcelUtils.java:51)
+	at com.tvo.testcases.TVOWebProCompatabilityTest.CompatibilityTest1(TVOWebProCompatabilityTest.java:35)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.rules.TestWatcher$1.evaluate(TestWatcher.java:55)
+	at org.junit.rules.RunRules.evaluate(RunRules.java:20)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runners.Suite.runChild(Suite.java:128)
+	at org.junit.runners.Suite.runChild(Suite.java:27)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:675)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192)
+2018-02-05 00:42:08,183 [main] INFO TVOWebProCompatabilityTest - Test2 - To test page loaded using firefox is successful or not
+2018-02-05 00:42:08,185 [main] ERROR TVOWebProLog4jTestWatcher - CompatibilityTest2(com.tvo.testcases.TVOWebProCompatabilityTest) - Failed
+java.lang.NullPointerException
+	at com.tvo.util.ExcelUtils.getCellData(ExcelUtils.java:38)
+	at com.tvo.util.ExcelUtils.extractTestCaseInputs(ExcelUtils.java:51)
+	at com.tvo.testcases.TVOWebProCompatabilityTest.CompatibilityTest2(TVOWebProCompatabilityTest.java:46)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.rules.TestWatcher$1.evaluate(TestWatcher.java:55)
+	at org.junit.rules.RunRules.evaluate(RunRules.java:20)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runners.Suite.runChild(Suite.java:128)
+	at org.junit.runners.Suite.runChild(Suite.java:27)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:675)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192)
+2018-02-05 00:42:08,192 [main] INFO TVOWebProCompatabilityTest - Test3 - To test page loaded using Internet Explorer is successful or not
+2018-02-05 00:42:08,193 [main] ERROR TVOWebProLog4jTestWatcher - CompatibilityTest3(com.tvo.testcases.TVOWebProCompatabilityTest) - Failed
+java.lang.NullPointerException
+	at com.tvo.util.ExcelUtils.getCellData(ExcelUtils.java:38)
+	at com.tvo.util.ExcelUtils.extractTestCaseInputs(ExcelUtils.java:51)
+	at com.tvo.testcases.TVOWebProCompatabilityTest.CompatibilityTest3(TVOWebProCompatabilityTest.java:57)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.rules.TestWatcher$1.evaluate(TestWatcher.java:55)
+	at org.junit.rules.RunRules.evaluate(RunRules.java:20)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runners.Suite.runChild(Suite.java:128)
+	at org.junit.runners.Suite.runChild(Suite.java:27)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:675)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192)
